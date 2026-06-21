@@ -22,7 +22,7 @@ EXP-010 introduced **falsification**: random control worlds produce entropy, not
 
 EXP-011 was the **inversion point**. World D (difference-only) reproduced Bird partitioning **without questions, communities, pressure, or tolerance**. The primitive operation may be **difference management**, with questions as derived compressions.
 
-EXP-012 through EXP-024 **descended the stack** without importing `src/`:
+EXP-012 through EXP-025 **descended the stack** without importing `src/`:
 - Emergent questions from persistent tensions (EXP-012)
 - Lifecycles and extinction (EXP-013)
 - Resurrection on same object (EXP-014)
@@ -36,8 +36,9 @@ EXP-012 through EXP-024 **descended the stack** without importing `src/`:
 - Persistence removal — **persistence falsified, organization survives** (EXP-022)
 - Question removal — **questions falsified, organization survives** (EXP-023)
 - Tension removal — **tensions falsified, organization survives** (EXP-024)
+- Difference removal — **organization collapsed; difference bedrock confirmed** (EXP-025)
 
-The arc: **questions-first → ecology → evolution → falsification → minimal worlds → difference-first → memory, competition, failed extensions → cross-domain validation → destructive arc (selection, persistence, questions, tensions removed) → difference-centric reframe**.
+The arc: **questions-first → ecology → evolution → falsification → minimal worlds → difference-first → memory arc → cross-domain → reduction arc (021–025) → difference bedrock → growth from difference**.
 
 ---
 
@@ -56,6 +57,8 @@ The arc: **questions-first → ecology → evolution → falsification → minim
 | **IX. Persistence removal** | EXP-022 | Persistence falsified; organization survives |
 | **X. Question removal** | EXP-023 | Questions falsified; tension floor confirmed |
 | **XI. Tension removal** | EXP-024 | Tensions falsified; difference floor confirmed |
+| **XII. Difference removal** | EXP-025 | Organization collapsed; **reduction complete** |
+| **VI. Growth from difference** | *(next)* | Constructive rebuild from bedrock |
 
 ---
 
@@ -71,8 +74,28 @@ The arc: **questions-first → ecology → evolution → falsification → minim
 8. **Persistence-removal era (EXP-022):** Stripped stable memory — organization survived via fresh emergence.
 9. **Question-removal era (EXP-023):** Removed question layer entirely — organization survived; tensions alone sufficient.
 10. **Tension-removal era (EXP-024):** Removed tension layer entirely — organization survived; differences alone sufficient.
+11. **Difference-removal era (EXP-025):** Removed difference layer — **organization collapsed**; difference confirmed as bedrock. **Reduction phase complete.**
 
-Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–024 use self-contained experiment files with local dataclasses.
+Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–025 use self-contained experiment files with local dataclasses.
+
+---
+
+## Phase VI — Growth From Difference
+
+**Status:** Current direction (post EXP-025)
+
+Reduction arc (EXP-021–025) identified **difference** as bedrock. Next work is **constructive** — rebuild optional layers upward:
+
+| Path | Question |
+|------|----------|
+| Difference → tensions | How do conflict summaries emerge from groups? |
+| Difference → questions | How does compression reappear? |
+| Difference → memory | When does persistence add value? |
+| Difference → persistence | Identity continuity from bedrock |
+| Difference → selection | Competition as derived, not primitive |
+| Difference → intelligence | Full ecology from minimal base |
+
+See `results/reduction_phase_summary.md`.
 
 ---
 
@@ -95,6 +118,7 @@ Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–024 us
 15. **Persistence falsified (EXP-022).** Transient traces; organization survived — difference+tension elevated.
 16. **Questions falsified (EXP-023).** Question-Centric program removed questions — organization survived; tensions maintain structure.
 17. **Tensions falsified (EXP-024).** Removed tension layer — organization survived; difference groups alone sufficient.
+18. **Difference bedrock (EXP-025).** Removed difference layer — organization collapsed; raw observations insufficient. **Reduction complete.**
 
 ---
 
@@ -115,15 +139,16 @@ Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–024 us
 - **Assumption removal** (EXP-021): selection not fundamental (H175); persistence > selection (H177, **qualified by EXP-022**).
 - **Persistence removal** (EXP-022): persistence not fundamental (H178); difference+tension deeper (H186).
 - **Question removal** (EXP-023): questions not fundamental (H187); tensions maintain org (H188) — **qualified by EXP-024**.
-- **Tension removal** (EXP-024): tensions not fundamental (H194); differences maintain org (H198); organization precedes conflict (H200).
+- **Tension removal** (EXP-024): tensions not fundamental (H194); differences maintain org (H198).
+- **Difference removal** (EXP-025): differences fundamental (H202); raw obs insufficient (H203); bedrock confirmed (H204–H205).
 
 ---
 
 ## Current Worldview
 
-Intelligence in this program is modeled as **ecological difference management**, with **difference as the current organizing floor**:
+Intelligence in this program is modeled as **ecological difference management**, with **difference as bedrock**:
 
-- Observations create **differences** — **current candidate primitive**.
+- Observations create **differences** — **confirmed primitive** (EXP-025 collapse test).
 - **Tensions** pair and rank group conflicts — **optional** (EXP-024).
 - **Questions** compress tensions into live objects — **optional** (EXP-023).
 - **Memory, persistence, selection** — optional optimizations (EXP-021–022).
@@ -138,4 +163,4 @@ Intelligence in this program is modeled as **ecological difference management**,
 - **Questions and memories obey different rules** (H163) — merge at question layer (EXP-002), resistance at trace layer.
 - **Selection partially generalizes** (EXP-020) — reproduces across unrelated domains but requires preconditions (H168); **falsified as fundamental** (EXP-021, H175–H176).
 
-We do **not** claim this is how real minds work. We claim the toy ecosystem produces coherent, falsifiable dynamics — including **destructive falsifications** (EXP-021–024) — that challenge answer-centric and question-primitive assumptions. **Candidate hierarchy: Difference.** Everything above difference is optional.
+We do **not** claim this is how real minds work. We claim the toy ecosystem produces coherent, falsifiable dynamics — including **destructive reduction** (EXP-021–025) ending in **bedrock confirmation** — that challenge answer-centric and question-primitive assumptions. **Hierarchy: Difference.** Everything above optional. **Reduction complete; growth phase begins.**

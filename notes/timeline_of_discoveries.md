@@ -1,6 +1,6 @@
 # Timeline of Discoveries
 
-EXP-001 through EXP-024. Concise record for memory recovery.
+EXP-001 through EXP-025. Concise record for memory recovery.
 
 ---
 
@@ -244,6 +244,16 @@ EXP-001 through EXP-024. Concise record for memory recovery.
 
 ---
 
+## EXP-025 — Difference Removal
+
+**Theme:** Attack differences — difference groups vs raw observations only  
+**Main result:** World B: 0 groups; **organization collapsed** (28 flat entities)  
+**Surprise:** First collapse in reduction arc; bedrock confirmed  
+**New hypotheses:** H202–H205 supported  
+**Importance:** **S++** — reduction phase complete; difference bedrock
+
+---
+
 ## Chronological Arc (one line)
 
-Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → memory arc → destructive tests (021–024) → **difference-centric reframe**.
+Merge → … → destructive tests (021–025) → **difference bedrock** → **growth from difference**.

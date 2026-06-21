@@ -1,92 +1,81 @@
 # Open Questions
 
-Research-facing unknowns as of EXP-024. Not implementation tasks.
+Research-facing unknowns as of EXP-025. Not implementation tasks.
+
+**Reduction phase complete.** Growth-oriented questions dominate.
 
 ---
 
 ## Most Important Unresolved Questions
 
-1. **Does organization survive difference removal?** EXP-024 floor is difference — not yet attacked.
+1. **How do tensions emerge constructively from difference?** Growth path: Difference → tensions.
 
-2. **Is difference the bedrock?** EXP-011 World D and EXP-024 World B both point to difference; not yet isolated as irreducible.
+2. **How do questions re-emerge as optional compression?** Growth path: Difference → questions.
 
-3. **Does anything survive total stripping?** Sequential removal may eventually hit true collapse.
+3. **What does intelligence look like built only from difference upward?** Difference → intelligence.
 
-4. **What is the minimal surviving motif?** Sequential stripping: selection → persistence → questions → tensions → **differences next**.
+4. **Can difference bedrock generalize cross-domain?** Beyond Bird/Mammal/Insect toy worlds.
 
-5. **Should the program rename?** Question-Centric Intelligence vs difference-centric reality.
+5. **Mathematical / information-theoretic formalization?** Partition operator vs flat entropy.
 
 ---
 
-## Most Dangerous Assumptions
+## Resolved (EXP-025)
+
+- **Organization survives difference removal?** **No** — World B collapsed.
+- **Is difference the bedrock?** **Yes** — deepest surviving motif; removal destroys org.
+- **Does anything survive below difference?** **No** — raw observations only.
+- **Reduction program complete?** **Yes** — EXP-021–025 arc closed.
+
+---
+
+## Most Dangerous Assumptions (remaining)
 
 | Assumption | Risk |
 |------------|------|
-| Questions are fundamental | **Falsified** — EXP-023 |
-| Tensions are fundamental | **Falsified** — EXP-024 |
-| Difference is bedrock | Plausible (EXP-011, EXP-024) — not yet isolated |
-| Destructive arc always finds survivor | May eventually hit true collapse |
-| Tension layer needed for organization | **Falsified** — EXP-024 |
+| Difference bedrock generalizes | Only tested in one pipeline |
+| Growth paths mirror reduction in reverse | Emergence may not be symmetric |
+| Toy partition = cognitive primitive | Real minds may use richer structure |
 
 ---
 
-## Most Promising Directions
+## Most Promising Directions (Growth Phase VI)
 
-1. **Difference removal (EXP-025?)** — strip difference groups; observe collapse or survival.
-2. **Bedrock identification** — formalize Difference as sole primitive or find deeper layer.
-3. **EXP-011 + EXP-024 synthesis** — minimal worlds without tensions or questions.
-4. **Optional layer catalog** — document what each removed layer provided when present.
-5. **Destructive arc paper** — EXP-021–024 as methodology contribution.
-
----
-
-## Questions That Could Destroy the Theory
-
-1. **Organization collapses when differences removed** — difference is true floor; removal ends structure.
-
-2. **Only raw observations remain** — entire stack is labeling; no organization without grouping.
-
-3. **Something survives difference removal** — bedrock deeper than difference (unlikely but possible).
+1. **Difference → tensions** — constructive tension emergence.
+2. **Difference → questions** — re-derive compression layer.
+3. **Difference → memory / persistence** — when optimization matters.
+4. **Difference → selection** — competition as derived mechanism.
+5. **Cross-domain growth** — new domains from difference base.
+6. **Formal bedrock catalog** — `reduction_phase_summary.md` + optional layer docs.
 
 ---
 
 ## Questions That Could Strengthen the Theory
 
-1. **Difference survives as bedrock** — aligns with EXP-011 World D and EXP-024 World B.
+1. **Clean constructive rebuild** — each optional layer re-derived from difference.
 
-2. **Formal hierarchy with testable preconditions** — each layer documents what it adds when enabled.
+2. **Cross-domain difference pipelines** — bedrock reproduces elsewhere.
 
-3. **Difference removal fails cleanly** — confirms difference as irreducible primitive.
+3. **Formal hierarchy with preconditions** — document what each layer adds.
 
-4. **Destructive arc paper** — EXP-021–024 as methodology contribution.
-
----
-
-## Resolved or Partially Resolved (since EXP-023)
-
-- **Tensions fundamental (H194):** Not supported — EXP-024.
-- **Differences alone organize (H198):** Supported — World B.
-- **Tensions as summaries (H199):** Supported.
-- **Organization precedes conflict (H200):** Supported.
-- **Difference groups sufficient (H201):** Supported.
-- **Tensions maintain organization (H188):** **Qualified** — true when enabled; not required (EXP-024).
+4. **Reduction + growth paper** — EXP-021–025 methodology + Phase VI roadmap.
 
 ---
 
 ## Carried Forward
 
-- Difference attack — **top priority**.
-- Bedrock formalization — after difference test.
-- H78 (tension more fundamental than questions) — further weakened.
+- Growth from difference — **top priority**.
+- Program rename consideration — Question-Centric vs difference-bedrock.
+- H195 qualified — "differences alone cannot organize" was EXP-024 tension-context; H203 confirms raw obs fail.
 
 ---
 
-## Candidate Hierarchy (working)
+## Candidate Hierarchy (confirmed)
 
 ```
-Difference
+Difference  ← bedrock
     ↓
-[optional] Tensions → Questions → Memory → Selection
+[optional] Tensions → Questions → Memory → Persistence → Selection → Identity → Competition
 ```
 
-Everything above difference currently considered optional.
+Everything above difference optional. Reduction complete.

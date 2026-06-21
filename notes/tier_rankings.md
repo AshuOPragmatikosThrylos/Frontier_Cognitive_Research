@@ -15,6 +15,7 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 | **EXP-022** | Persistence removal. World A persistent traces + reconstruction; World B transient decay + fresh emergence. **Organization survived both.** Falsified persistence as fundamental. Difference+tension elevated. One of most important experiments. |
 | **EXP-023** | Question removal. World A questions + fresh emergence; World B tensions only. **Organization survived both.** Falsified questions as fundamental. Program namesake layer optional. One of most important experiments. |
 | **EXP-024** | Tension removal. World A differences + persistent tensions; World B differences only. **Organization survived both.** Falsified tensions as fundamental. Difference floor confirmed. One of most important experiments. |
+| **EXP-025** | Difference removal. World A difference groups; World B raw observations only. **Organization collapsed in World B.** Confirmed difference as bedrock. **Reduction phase complete.** One of most important experiments. |
 
 ---
 
@@ -58,7 +59,7 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 
 ## Not Ranked Lower Deliberately
 
-All EXP-001–024 contributed. EXP-021, EXP-022, EXP-023, EXP-024 rank **S++** — sequential destructive tests; EXP-024 removes tension floor.
+All EXP-001–025 contributed. EXP-021–025 rank **S++** — reduction arc; EXP-025 capstone collapse confirms bedrock.
 
 ---
 
@@ -75,7 +76,7 @@ A    → Necessary construction or extension; less surprising alone
 
 ## If Reading One Experiment Per Tier
 
-- **S++:** EXP-011, **EXP-024** (tension removal), or EXP-021–023 (destructive arc)
+- **S++:** EXP-011, **EXP-025** (bedrock collapse), or EXP-021–024 (reduction arc)
 - **S+:** EXP-012 (emergence) or EXP-015 (qualified persistence)
 - **S:** EXP-018 (negative — read with EXP-017)
 - **S:** EXP-019 (negative — read with EXP-002)

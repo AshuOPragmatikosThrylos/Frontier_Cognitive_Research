@@ -2,13 +2,13 @@
 
 **Purpose:** Paste or attach at start of a new session. Compact state of Frontier Cognitive Research / QCI program.
 
-**Last updated:** 2026-06-22 (post EXP-024 — tensions falsified; difference floor)
+**Last updated:** 2026-06-22 (post EXP-025 — reduction complete; difference bedrock)
 
 ---
 
 ## One-Sentence State
 
-**Difference** candidate bedrock; tensions/questions/memory/selection **optional** (EXP-021–024); organization survives without tension layer (EXP-024).
+**Difference = bedrock**; everything above optional (EXP-021–024); **reduction complete** — org collapsed without differences (EXP-025).
 
 ---
 
@@ -16,8 +16,8 @@
 
 ```
 02_Question_Centric_Intelligence/
-├── experiments/exp001–exp024.py
-├── results/exp001–exp024 documented
+├── experiments/exp001–exp025.py
+├── results/exp001–exp025 + reduction_phase_summary.md
 └── src/ (EXP-001–011 only)
 notes/ ← MEMORY LAYER
 ```
@@ -30,34 +30,39 @@ notes/ ← MEMORY LAYER
 Difference
 ```
 
-**Everything above difference optional:** tensions, questions, memory, persistence, selection, identity.
+**Everything above optional:** tensions, questions, memory, persistence, selection, identity, competition.
 
 ---
 
-## Current Phase
+## Reduction Phase (COMPLETE)
 
-**Phase XI: Tension removal — org survives without tensions** (EXP-024)
+| EXP | Attack | Org survived? |
+|-----|--------|---------------|
+| 021 | Selection | Yes |
+| 022 | Persistence | Yes |
+| 023 | Questions | Yes |
+| 024 | Tensions | Yes |
+| **025** | **Differences** | **No — collapse** |
 
-| EXP | Attack | Survivor |
-|-----|--------|----------|
-| 021 | Selection | Persistence |
-| 022 | Persistence | Difference + tension |
-| 023 | Questions | Difference + tension |
-| **024** | **Tensions** | **Difference** |
+Bedrock: **Difference**. See `results/reduction_phase_summary.md`.
 
 ---
 
-## Current Direction
+## Phase VI — Growth From Difference (current)
 
-1. **Tensions not fundamental** (H194 falsified).
-2. **Differences maintain organization** (H198).
-3. Next: attack differences → bedrock or collapse.
+Build upward from bedrock:
+
+- Difference → tensions
+- Difference → questions
+- Difference → memory / persistence / selection / intelligence
+
+Reduction concluded. Growth-oriented work next.
 
 ---
 
 ## Narrative (30 seconds)
 
-Built question ecology (001–011). Memory/selection (015–020). **Destructive arc:** 021 selection gone, 022 persistence gone, 023 questions gone, **024 tensions gone** — **difference remains**.
+Built question ecology (001–011). **Reduction arc 021–025:** stripped selection, persistence, questions, tensions — org survived; stripped differences — **collapse**. Difference = bedrock. Now grow from difference.
 
 ---
 
@@ -65,12 +70,12 @@ Built question ecology (001–011). Memory/selection (015–020). **Destructive 
 
 | Tier | Experiments |
 |------|-------------|
-| **S++** | EXP-010, 011, 020, 021, 022, 023, **024** |
+| **S++** | EXP-010, 011, 020, 021, 022, 023, 024, **025** |
 | **S+** | EXP-003, 008, 012, 015, 017 |
 | **S** | EXP-004, 009, 013, 014, 018, 019 |
 | **A** | EXP-001, 002, 005–007, 016 |
 
-**EXP-024 = one of most important** — removed tension floor, org survived at difference layer.
+**EXP-025 = reduction capstone** — first collapse; confirms bedrock.
 
 ---
 
@@ -78,53 +83,51 @@ Built question ecology (001–011). Memory/selection (015–020). **Destructive 
 
 | | % |
 |--|---|
-| Interesting Framework | 95 |
-| Useful Framework | 70 |
-| Preprint-worthy Narrative | 62 |
-| **Differences as Fundamental** | **78** ↑↑ |
-| **Tensions as Fundamental** | **28** ↓↓ |
+| Interesting Framework | 97 |
+| Useful Framework | 72 |
+| Preprint-worthy Narrative | 68 |
+| **Differences as Fundamental** | **92** ↑↑ |
+| Tensions as Fundamental | 28 |
 | Questions as Fundamental | 24 |
-| Selection / Persistence | 22 / 38 |
-| Fundamental Breakthrough | 18 |
-| **Dead-end Risk** | **10** ↓ |
+| Fundamental Breakthrough | 24 |
+| **Dead-end Risk** | **6** ↓ |
 
 ---
 
-## Key Hypotheses (H198–H201)
+## Key Hypotheses (H202–H205)
 
 | ID | Claim | Status |
 |----|-------|--------|
-| H198 | Differences alone maintain organization | Supported |
-| H199 | Tensions are pairwise summaries of differences | Supported |
-| H200 | Organization precedes conflict | Supported |
-| H201 | Difference groups are sufficient | Supported |
+| H202 | Differences are fundamental | Supported |
+| H203 | Raw observations alone cannot organize | Supported |
+| H204 | Difference is deepest surviving motif | Supported |
+| H205 | Removing differences destroys organization | Supported |
 
-H194–H197 falsified. Full H1–H201: `notes/major_hypotheses.md`
+Full H1–H205: `notes/major_hypotheses.md`
 
 ---
 
-## Critical Contrasts
+## Critical Contrasts (EXP-025)
 
 | | World A | World B |
 |--|---------|---------|
-| Tensions | 3 persistent | **0** |
-| Difference groups | 6 | 6 |
-| Questions | 0 | 0 |
-| Organization | Yes | **Yes** |
+| Difference groups | 6 | **0** |
+| Raw entities | 28 | 28 |
+| Organization | **Yes** | **No** |
 
 ---
 
 ## Open Questions (top 3)
 
-1. Does organization survive difference removal?
-2. Is difference the bedrock?
-3. Does anything survive total stripping?
+1. How do tensions emerge constructively from difference?
+2. Cross-domain difference → intelligence pipelines?
+3. Mathematical / information-theoretic formalization of difference?
 
 ---
 
 ## Git
 
-- Latest impl: QCI-035 (EXP-024)
+- Latest impl: QCI-036 (EXP-025)
 - Results docs: pending user commit
 
 ---
@@ -136,14 +139,6 @@ H194–H197 falsified. Full H1–H201: `notes/major_hypotheses.md`
 
 ---
 
-## Active Tensions
-
-1. **Program name ironic** — Question-Centric but questions optional; tensions also optional.
-2. **Difference floor** — current candidate primitive; not yet attacked.
-3. **Destructive arc** — 021→024; four layers demolished.
-
----
-
 ## Kill Criteria
 
-Questions-as-fundamental **falsified** (EXP-023). Tensions-as-fundamental **falsified** (EXP-024). Difference remains. See `notes/kill_criteria.md`.
+Reduction **complete**. Difference confirmed bedrock. No deeper motif found. See `notes/kill_criteria.md`.

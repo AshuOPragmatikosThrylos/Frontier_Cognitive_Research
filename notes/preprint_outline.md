@@ -7,18 +7,18 @@
 ## Possible Future Title (options)
 
 1. *Difference Before Everything: A Minimal Ecology for Cognitive Organization*
-2. *We Removed Questions From Question-Centric Intelligence: Twenty-Four Destructive Worlds*
-3. *What Survives When You Strip Everything: From Selection to Difference*
+2. *We Stripped Everything Until It Collapsed: Twenty-Five Destructive Worlds*
+3. *What Survives When You Strip Everything: From Selection to Difference to Collapse*
 
 ---
 
 ## Abstract Ideas (bullet sketch)
 
-- Method: twenty-four deterministic experiments; destructive removal arc (021–024).
-- Arc: build question ecology → **demolish selection, persistence, questions, tensions** — organization survives at difference floor.
-- Key finding: **Difference as bedrock candidate; everything above optional.**
-- Irony: Question-Centric Intelligence removes questions and tensions; structure intact.
-- Methodology: assumption/layer removal > mechanism stacking.
+- Method: twenty-five deterministic experiments; reduction arc (021–025) + construction (001–020).
+- Arc: build question ecology → **demolish layers until collapse** — difference is bedrock.
+- Key finding: **Difference bedrock; everything above optional.**
+- Closure: EXP-025 collapse confirms necessity; reduction phase complete.
+- Next: growth from difference (Phase VI).
 
 ---
 
@@ -26,13 +26,14 @@
 
 1. **Introduction**
 2. **Related Work**
-3. **Framework** (historical question-centric; current difference-centric)
-4. **Phase I–IV:** EXP-001–011 (construction — now qualified as optional layers)
-5. **Phase V–VI:** Memory/selection/cross-domain (qualified)
-6. **Phase VII:** Destructive arc EXP-021–024
-7. **Discussion:** Candidate hierarchy; organization precedes conflict and representation
-8. **Limitations:** Differences not yet attacked
-9. **Conclusion**
+3. **Framework** (historical question-centric; difference bedrock)
+4. **Phase I–IV:** EXP-001–011 (construction — optional layers)
+5. **Phase V:** Memory/selection/cross-domain (qualified)
+6. **Phase VII:** Reduction arc EXP-021–025
+7. **Discussion:** Bedrock confirmation via collapse
+8. **Phase VI preview:** Growth from difference
+9. **Limitations:** Toy worlds; single pipeline
+10. **Conclusion**
 
 ---
 
@@ -40,41 +41,41 @@
 
 | Priority | Experiments | Role |
 |----------|-------------|------|
-| Core | EXP-011, **EXP-024** | Minimal pivot + tension removal |
-| Core | **EXP-023, EXP-021, EXP-022** | Question + selection + persistence removal |
+| Core | **EXP-025, EXP-011** | Bedrock collapse + minimal pivot |
+| Core | **EXP-021–024** | Reduction arc — survival layers |
 | Core | EXP-010, EXP-012 | Falsification + emergence (qualified) |
 | Supporting | EXP-017, EXP-020 | Selection cross-domain (qualified) |
 | Appendix | Others | Construction detail |
 
-**EXP-024 World A vs B** — headline: same difference groups, tensions optional.
+**EXP-025 World A vs B** — headline: same entities, organization lives or dies on difference.
 
 ---
 
 ## Key Hypotheses to Highlight
 
-- **Supported:** H100, H174–H177 (qualified), H180–H201
-- **Not supported:** H178, H171–H173, H194–H197
-- **Pivot:** H198–H201 — differences organize; tensions optional summaries
+- **Supported:** H202–H205 (bedrock), H198–H201 (optional layers), H187–H193
+- **Not supported:** H194–H197, H178, H171–H173
+- **Pivot:** Reduction complete; difference confirmed via collapse
 
 ---
 
 ## Limitations (must include)
 
-- Organization still requires differences.
-- Program name vs current hierarchy tension.
+- Bedrock scoped to tested pipeline.
+- Program name vs difference-bedrock reality.
 - Toy worlds only.
-- Difference floor not yet attacked.
+- Growth phase not yet executed.
 
 ---
 
 ## Submission Target (if ever)
 
-Workshop on cognitive architecture. **Lead with destructive arc and namesake irony.**
+Workshop on cognitive architecture. **Lead with reduction arc closure and collapse-as-confirmation.**
 
 ---
 
 ## Future Work (paper closing)
 
-- Difference removal experiment.
-- Bedrock formalization.
-- Optional layer catalog.
+- Phase VI: Growth from difference.
+- Cross-domain constructive pipelines.
+- Formal / information-theoretic interpretation.

@@ -1,4 +1,4 @@
-# Major Hypotheses (H1–H201)
+# Major Hypotheses (H1–H205)
 
 Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rejected**
 
@@ -387,3 +387,30 @@ Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rej
 | Rejected | 0 explicit |
 
 *EXP-024: tensions falsified; difference floor. H78 (tension more fundamental than questions) further weakened.*
+
+---
+
+## EXP-025 — Difference Removal (bedrock confirmed)
+
+| ID | Statement | Status | Experiment |
+|----|-----------|--------|------------|
+| H202 | Differences are fundamental | Supported | EXP-025 |
+| H203 | Raw observations alone cannot organize | Supported | EXP-025 |
+| H204 | Difference is the deepest surviving motif observed | Supported | EXP-025 |
+| H205 | Removing differences destroys organization | Supported | EXP-025 |
+
+---
+
+## Summary Counts (H1–H205)
+
+| Status | Count (approx.) |
+|--------|-----------------|
+| Supported | ~141 |
+| Strengthened | ~17 |
+| Partial | 1 (H164) |
+| Weak | ~11 |
+| Unresolved | ~10 |
+| Not supported | 16 (H150–H153, H156–H159, H171–H173, H178, H194–H197) |
+| Rejected | 0 explicit |
+
+*EXP-025: reduction phase complete; difference bedrock. H195 (differences alone cannot organize) falsified — opposite of H203.*
