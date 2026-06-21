@@ -6,17 +6,17 @@ Scale: **0–100%** (subjective, based on toy experiments and discussion coheren
 
 ---
 
-## Current Estimates (post EXP-016 implementation)
+## Current Estimates (post EXP-018)
 
 | Framework | Confidence | Notes |
 |-----------|------------|-------|
-| **Interesting Framework** | 78% | Rich dynamics, clear narrative arc, reproducible toy worlds |
-| **Useful Framework** | 52% | Useful for thought experiments and architecture sketches; not yet operational |
-| **Preprint-worthy Narrative** | 38% | Needs external validation, formalism, and EXP-016+ results documentation |
-| **New Cognitive Principles** | 45% | Difference-first, tension-first, episodic questions — plausible but early |
-| **Cross-domain Potential** | 35% | Analogies to science, attention, memory; no real-world benchmarks |
-| **Fundamental Breakthrough** | 8% | Deliberately low — toy domain, no empirical psychology/AI comparison |
-| **Dead-end Risk** | 28% | Reduced after EXP-010/011; still risk of overfitting Penguin World |
+| **Interesting Framework** | 79% | Memory arc + negative result (EXP-018) adds falsification depth |
+| **Useful Framework** | 54% | Selection mechanism (EXP-017) confirmed robust; cooperation path closed for now |
+| **Preprint-worthy Narrative** | 41% | Honest negative results strengthen narrative; still needs second domain |
+| **New Cognitive Principles** | 47% | Selection-under-scarcity reinforced; cooperation not yet demonstrated |
+| **Cross-domain Potential** | 36% | Three categories in EXP-017/018 but same behavior-diff structure |
+| **Fundamental Breakthrough** | 8% | Deliberately low — toy domain, no empirical comparison |
+| **Dead-end Risk** | 22% | **Reduced** — EXP-018 negative result shows program can falsify its own extensions |
 
 ---
 
@@ -33,31 +33,31 @@ Scale: **0–100%** (subjective, based on toy experiments and discussion coheren
 | EXP-011 (minimal worlds) | 72 | 46 | 25 | 48 | 25 | 7 | 22 |
 | EXP-013 (extinction) | 74 | 48 | 28 | 50 | 28 | 7 | 20 |
 | EXP-015 (memory) | 76 | 50 | 32 | 48 | 30 | 8 | 18 |
-| EXP-016 (forgetting, impl.) | 78 | 52 | 38 | 45 | 35 | 8 | 28 |
+| EXP-017 (competition) | 78 | 53 | 39 | 46 | 35 | 8 | 24 |
+| EXP-018 (cooperation −) | 79 | 54 | 41 | 47 | 36 | 8 | 22 |
 
-*EXP-016 row: implementation complete; formal results not yet recorded — preprint confidence not raised on outcomes.*
+*EXP-018: valuable negative result — strengthens EXP-017, reduces dead-end risk, modest preprint gain from honest falsification.*
 
 ---
 
 ## What Moved Confidence Up
 
-- **EXP-010:** Control worlds; mechanisms falsifiably matter.
-- **EXP-011:** Minimal reduction identifies necessary vs sufficient structure.
-- **EXP-013–015:** Coherent lifecycle + memory story without `src/` dependency drift.
-- **Git discipline:** Full experiment history preserved.
+- **EXP-017:** Memory competition under budget; latent > active diversity.
+- **EXP-018 (negative):** Program falsified its own cooperation extension — resistance like EXP-010.
+- **EXP-017 reinforced by EXP-018:** Selection robust without cooperation overlay.
 
 ## What Moved Confidence Down or Held It Back
 
-- **EXP-011 World D:** Questions may be inert for core organization — challenges founding premise (H2).
-- **Single domain:** Bird/Mammal toy world throughout.
-- **No baselines:** No comparison to standard ML, ACT-R, or cognitive science models.
-- **Hand-tuned constants:** Thresholds, decay rates, budgets not derived from data.
-- **EXP-016:** Not yet in results corpus; dead-end risk ticked slightly (complexity creep in memory stack).
+- **EXP-018:** Cooperation not demonstrated — limits memory-layer extensions without richer rules.
+- **Single structure:** Bird/Mammal/Insect share same behavior-diff template.
+- **Hand-tuned constants:** Budget, strength formula, coalition threshold not derived from data.
+- **Mechanism stacking risk:** Memory arc (015–018) adds layers; watch for redundancy.
 
 ---
 
 ## Interpretation Guardrails
 
 - High **Interesting** + low **Breakthrough** = good exploratory research, not a discovery claim.
-- **Dead-end Risk** rises if next experiments only add mechanisms without new falsification or domain change.
-- **Preprint-worthy** requires at least: documented EXP-016 results, explicit limitations section, and one non-Bird domain or external reader test.
+- **Negative results** (EXP-018) increase **Useful** and decrease **Dead-end** — failure to cooperate is data.
+- **Dead-end Risk** rises if next experiments only add mechanisms without falsification or domain change.
+- **Preprint-worthy** benefits from documenting EXP-018 as explicit falsification of simple cooperation.

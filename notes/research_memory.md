@@ -2,13 +2,13 @@
 
 **Purpose:** Paste or attach at start of a new session. Compact state of Frontier Cognitive Research / QCI program.
 
-**Last updated:** 2026-06-22 (post EXP-016 implementation + crash fix; results doc pending)
+**Last updated:** 2026-06-22 (post EXP-018 results — valuable negative result)
 
 ---
 
 ## One-Sentence State
 
-Toy deterministic ecology evolved from **question-first** (merge, communities) through **evolution and falsification** to **difference-first** (tensions, episodic questions, ecosystem memory traces, selective forgetting).
+Toy deterministic ecology: **difference-first** stack with ecosystem memory, **competition under budget** (EXP-017), and **failed cooperation** (EXP-018) — selection reinforced, not replaced.
 
 ---
 
@@ -16,43 +16,40 @@ Toy deterministic ecology evolved from **question-first** (merge, communities) t
 
 ```
 Frontier_Cognitive_Research/
-├── 01_Darwinian_Memory/          (parallel track, less active)
 ├── 02_Question_Centric_Intelligence/   ← ACTIVE
-│   ├── experiments/exp001–exp016.py
-│   ├── results/exp*_results.md   (exp016 results NOT yet written)
-│   └── src/                      (EXP-001–011 only; EXP-012+ self-contained)
-├── 03_Compression_Failure_Engine/
-└── notes/                        ← THIS MEMORY LAYER (you are here)
+│   ├── experiments/exp001–exp018.py
+│   ├── results/exp001–exp018 documented
+│   └── src/                      (EXP-001–011 only)
+└── notes/                        ← MEMORY LAYER
 ```
-
-**Workflow:** Discussion → Cursor experiment → git commit (QCI-NNN) → results docs when experiment "completed."
 
 ---
 
 ## Current Phase
 
-**Phase VI: Difference-first memory stack** (EXP-012–016)
+**Phase VI extended: Memory selection + cooperation falsified** (EXP-012–018)
 
-- EXP-012: emergent questions from tensions
-- EXP-013: lifecycles + extinction
-- EXP-014: resurrection (same object)
-- EXP-015: deletion + trace reconstruction
-- EXP-016: perfect vs selective forgetting — **implemented, not formally resulted; clutter_count bug fixed**
+| EXP | Result |
+|-----|--------|
+| 012–015 | Emergence, lifecycle, resurrection, trace memory |
+| 016 | Forgetting vs perfect memory |
+| 017 | **Competition** — Bird wins; latent > active |
+| 018 | **Cooperation failed** — no coalitions; Bird wins solo; strengthens EXP-017 |
 
 ---
 
 ## Current Direction
 
-1. Document EXP-016 results (`exp016_results.md` etc.) when user marks experiment complete.
-2. Avoid adding mechanisms without control/minimal world.
-3. Strong candidate next step: **second domain** OR **threshold sensitivity audit** (see kill_criteria.md).
-4. Do not rerun/modify prior experiments unless explicitly asked.
+1. Cooperation requires richer mechanisms (H155) — simple rules falsified.
+2. EXP-017 is authoritative for memory competition.
+3. Candidates: coalition prerequisites, adaptive budgets, second domain, threshold audit.
+4. Do not rerun/modify experiments unless asked.
 
 ---
 
 ## Narrative (30 seconds)
 
-Built question repository with merge and communities. Hierarchy over-merged (EXP-003). Graphs/communities stable (EXP-004). Attention scarcity separates memory from focus (EXP-005). Communities evolve via contradiction pressure and tolerance (EXP-008–009). Random controls prove mechanisms matter (EXP-010). **World D partitions Bird with differences only** (EXP-011) — pivot. Rebuilt stack: tension → emergent question → extinct → trace → reconstruct (EXP-012–015). Forgetting prunes clutter in design (EXP-016).
+Difference-first rebuild (EXP-011–012). Questions episodic (013). Memory externalized (015). Forgetting prunes (016). **Competition selects expression** (017). **Cooperation attempt failed** (018) — negative result strengthens selection story.
 
 ---
 
@@ -61,11 +58,9 @@ Built question repository with merge and communities. Hierarchy over-merged (EXP
 | Tier | Experiments |
 |------|-------------|
 | **S++** | EXP-010, EXP-011 |
-| **S+** | EXP-003, EXP-008, EXP-012, EXP-015 |
-| **S** | EXP-004, EXP-009, EXP-013, EXP-014 |
+| **S+** | EXP-003, EXP-008, EXP-012, EXP-015, **EXP-017** |
+| **S** | EXP-004, EXP-009, EXP-013, EXP-014, **EXP-018** (negative) |
 | **A** | EXP-001, 002, 005–007, 016 |
-
-Full rationale: `notes/tier_rankings.md`
 
 ---
 
@@ -73,15 +68,15 @@ Full rationale: `notes/tier_rankings.md`
 
 | | % |
 |--|---|
-| Interesting Framework | 78 |
-| Useful Framework | 52 |
-| Preprint-worthy Narrative | 38 |
-| New Cognitive Principles | 45 |
-| Cross-domain Potential | 35 |
+| Interesting Framework | 79 |
+| Useful Framework | 54 |
+| Preprint-worthy Narrative | 41 |
+| New Cognitive Principles | 47 |
+| Cross-domain Potential | 36 |
 | Fundamental Breakthrough | 8 |
-| Dead-end Risk | 28 |
+| **Dead-end Risk** | **22** ↓ |
 
-Full history: `notes/confidence_dashboard.md`
+EXP-018 negative result reduced dead-end risk — program falsifies its own extensions.
 
 ---
 
@@ -89,77 +84,58 @@ Full history: `notes/confidence_dashboard.md`
 
 | ID | Claim | Status |
 |----|-------|--------|
-| H100 | Cognition from difference management | Strengthened (EXP-011) |
-| H104 | Questions not primitive | Supported (EXP-012) |
-| H115 | Organization mostly non-question | Supported (EXP-013) |
-| H125 | Memory is ecosystem property | Supported (EXP-015) |
-| H129 | Identity relational not material | Supported (EXP-015) |
-| H2 | Questions primary objects | **Weak** — founding tension |
+| H148 | Selection more fundamental than resurrection | Strengthened (017+018) |
+| H141–H144 | Memory competition | Supported (017) |
+| H150–H153 | Memory cooperation | **Not supported** (018) |
+| H154–H155 | Competition easier than cooperation | Weak (018) |
+| H100, H125, H132 | Difference-first, distributed memory | Supported |
 
-Full H1–H132: `notes/major_hypotheses.md`
-
----
-
-## Open Questions (top 5)
-
-1. Primitive operation: difference vs tension vs question?
-2. Scale beyond Bird/Mammal?
-3. Memory unit: trace vs object vs group?
-4. EXP-016 outcomes — forgetting vs identity?
-5. Any computational advantage vs baselines?
-
-Full list: `notes/open_questions.md`
+Full H1–H155: `notes/major_hypotheses.md`
 
 ---
 
-## Kill Criteria (headline)
+## Open Questions (top 3)
 
-**Stop if:** 3 barren experiments; threshold audit fails; independent replication diverges.
-
-**Warning:** still single domain; EXP-016 undocumented.
-
-Full: `notes/kill_criteria.md`
+1. What coalition prerequisites would enable cooperation?
+2. Scale beyond behavior-diff template (Bird/Mammal/Insect)?
+3. Threshold sensitivity — do 017/018 conclusions survive perturbation?
 
 ---
 
-## Shared Observation Sequence (EXP-012–016)
+## EXP-017 vs EXP-018 (critical)
 
-- 4 bird fly, 4 bird not fly, 2 mammal (bat fly, whale swim)
-- Reintro: crow/raven fly; chicken/turkey not fly
-- Bird tension: `t-bird-fly-vs-not_fly`; question: `eq-bird-fly-vs-not_fly`
+| | EXP-017 | EXP-018 |
+|--|---------|---------|
+| Mechanism | Individual competition | + intended coalitions |
+| Coalitions | — | **None formed** |
+| Winner | Bird (1.00) | Bird (1.00) |
+| Verdict | Selection works | **Cooperation falsified** |
 
 ---
 
 ## Git / Commit Convention
 
-- Implementation: `QCI-NNN Implement EXP-0XX ...`
-- Results: `QCI-NNN Record EXP-0XX ...`
-- Latest: QCI-026 (EXP-016 impl + clutter_count fix)
-- Commit only when user asks; push only when user asks.
+- Latest: QCI-029 (EXP-018 impl); results commit pending user request
+- Commit/push only when user asks
 
 ---
 
 ## Rules for New Sessions
 
 - Do NOT modify code/experiments/src unless asked.
-- Do NOT rerun experiments unless asked.
 - Results docs only when user says experiment completed.
-- Deterministic: no randomness, LLM, embeddings, vector DB in experiments.
-- Read `notes/research_memory.md` + relevant `results/exp*_results.md` before continuing work.
-
----
-
-## Deep Dives (when needed)
-
-| File | Content |
-|------|---------|
-| `notes/project_story.md` | Full narrative, phases, surprises, worldview |
-| `notes/timeline_of_discoveries.md` | Per-EXP one-liners |
-| `notes/preprint_outline.md` | Internal paper sketch (not claims) |
-| `02_Question_Centric_Intelligence/notes/research_journal.md` | Discussions 001–010, H1–H37 origins |
+- Read `notes/research_memory.md` + relevant `results/exp*_results.md`.
 
 ---
 
 ## Active Tension in the Research
 
-**Founding premise (questions first) vs empirical pivot (differences first).** The project is most honest when it holds both: questions are *useful derived objects*, not proven cognitive primitives.
+**Founding premise (questions first) vs difference-first pivot** — unchanged.
+
+**New tension: cooperation vs selection** — EXP-018 suggests selection may suffice; cooperation needs richer architecture, not more rules.
+
+---
+
+## Kill Criteria (headline)
+
+EXP-018 **passed** resistance test (negative result documented). Watch for mechanism stacking without falsification. See `notes/kill_criteria.md`.

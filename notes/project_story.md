@@ -22,14 +22,16 @@ EXP-010 introduced **falsification**: random control worlds produce entropy, not
 
 EXP-011 was the **inversion point**. World D (difference-only) reproduced Bird partitioning **without questions, communities, pressure, or tolerance**. The primitive operation may be **difference management**, with questions as derived compressions.
 
-EXP-012 through EXP-016 **descended the stack** without importing `src/`:
+EXP-012 through EXP-018 **descended the stack** without importing `src/`:
 - Emergent questions from persistent tensions (EXP-012)
 - Lifecycles and extinction (EXP-013)
 - Resurrection on same object (EXP-014)
 - Ecosystem memory traces and reconstruction after deletion (EXP-015)
-- Perfect vs selective forgetting (EXP-016, implemented; results pending formal documentation)
+- Perfect vs selective forgetting (EXP-016)
+- Memory trace competition under budget (EXP-017)
+- Memory cooperation attempt — **negative result** (EXP-018)
 
-The arc: **questions-first → ecology → evolution → falsification → minimal worlds → difference-first → memory and forgetting**.
+The arc: **questions-first → ecology → evolution → falsification → minimal worlds → difference-first → memory, competition, and failed cooperation**.
 
 ---
 
@@ -42,7 +44,7 @@ The arc: **questions-first → ecology → evolution → falsification → minim
 | **III. Scarcity** | EXP-005–006 | Attention economy, community competition |
 | **IV. Evolution** | EXP-007–009 | Speciation, contradiction pressure, tolerance |
 | **V. Falsification** | EXP-010–011 | Random controls, minimal worlds |
-| **VI. Difference-first** | EXP-012–016 | Tensions, lifecycles, memory, forgetting |
+| **VI. Difference-first** | EXP-012–018 | Tensions, lifecycles, memory, competition, cooperation (failed) |
 
 ---
 
@@ -51,9 +53,10 @@ The arc: **questions-first → ecology → evolution → falsification → minim
 1. **Construction era (EXP-001–009):** Each experiment added one mechanism and observed Bird/Mammal toy worlds.
 2. **Comparison era (EXP-010+):** Control worlds ask *which* mechanisms matter.
 3. **Reduction era (EXP-011):** Strip mechanisms until organization survives or dies.
-4. **Reconstruction era (EXP-012–016):** Rebuild upward from differences, treating questions as transient phases and memory as ecosystem property.
+4. **Reconstruction era (EXP-012–018):** Rebuild upward from differences, treating questions as transient phases and memory as ecosystem property.
+5. **Resistance era (EXP-018):** First documented negative result in memory layer — cooperation falsified, selection reinforced.
 
-Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–016 use self-contained experiment files with local dataclasses.
+Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–018 use self-contained experiment files with local dataclasses.
 
 ---
 
@@ -69,6 +72,7 @@ Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–016 us
 8. **Organization outlives questions (EXP-013).** At extinction: groups and tensions persist; zero live questions.
 9. **Identity without objects (EXP-015).** Question deleted; trace retains id and history; reconstruction continues narrative.
 10. **Dict iteration bug (EXP-016).** `clutter_count()` iterated keys not values — type error, not corruption of memory model.
+11. **Cooperation failed (EXP-018).** No coalitions formed; Bird won solo — EXP-017 selection reproduced; valuable negative result.
 
 ---
 
@@ -80,7 +84,9 @@ Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–016 us
 - **Memory** is distributed: traces, groups, tensions — not confined to question object references (H125, H132).
 - **Identity** is relational (question_id + tension link), surviving extinction, deletion, and reconstruction (H121, H129).
 - **Mechanisms matter**; randomness and aggregate stats are insufficient (H87, H92).
-- **Forgetting** (EXP-016 design): selective decay prunes unused traces; core traces may survive at reduced strength.
+- **Forgetting** (EXP-016): selective decay prunes unused traces; core traces may survive at reduced strength.
+- **Competition** (EXP-017): trace strength + budget determines who reconstructs; latent memory exceeds active expression.
+- **Cooperation** (EXP-018): **not demonstrated** — simple coalition rules insufficient; selection robust without alliances.
 
 ---
 
@@ -93,6 +99,7 @@ Intelligence in this program is modeled as **ecological difference management un
 - Tensions compress into **questions** (temporary, lifecycle-bound).
 - **Communities** evolve via pressure, tolerance, and speciation when contradictions exceed capacity.
 - **Attention** allocates scarce processing; **memory** persists separately.
-- **Traces** outlive question instances; **forgetting** prevents clutter accumulation.
+- **Traces** outlive question instances; **forgetting** prunes clutter; **competition** selects expression under scarcity.
+- **Cooperation** requires richer mechanisms than tested — EXP-018 falsified simple alliance rules.
 
-We do **not** claim this is how real minds work. We claim the toy ecosystem produces coherent, falsifiable dynamics that challenge answer-centric and question-primitive assumptions — and that the stack now points toward **tension-and-memory-first** models rather than question-first models.
+We do **not** claim this is how real minds work. We claim the toy ecosystem produces coherent, falsifiable dynamics — including **negative results** (EXP-018) — that challenge answer-centric and question-primitive assumptions. The stack points toward **tension-and-memory-first** models with **selection** as a gate on resurrection; cooperation remains an open problem.

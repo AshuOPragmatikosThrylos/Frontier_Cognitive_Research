@@ -231,27 +231,55 @@ Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rej
 
 ---
 
-## EXP-016 — Ecosystem Forgetting (implementation only)
+## EXP-016 — Ecosystem Forgetting
 
-No formal H133+ in results corpus yet. Design intent (pending documented run):
-
-| Theme | Expected status | Experiment |
-|-------|-----------------|------------|
-| Perfect memory retains clutter | Unresolved | EXP-016 World A |
-| Selective forgetting prunes unused traces | Unresolved | EXP-016 World B |
-| Core identity trace survives partial decay | Unresolved | EXP-016 World B |
-| Forgetting and reconstruction coexist | Unresolved | EXP-016 |
+| ID | Statement | Status | Experiment |
+|----|-----------|--------|------------|
+| H133 | Perfect memory retains clutter | Supported | EXP-016 World A |
+| H134 | Selective forgetting prunes unused traces | Supported | EXP-016 World B |
+| H135 | Core trace survives partial decay | Supported | EXP-016 World B |
+| H136 | Forgetting and reconstruction coexist | Supported | EXP-016 |
 
 ---
 
-## Summary Counts (H1–H132)
+## EXP-017 — Memory Competition
+
+| ID | Statement | Status | Experiment |
+|----|-----------|--------|------------|
+| H141 | Memory traces compete | Supported | EXP-017 |
+| H142 | Not every memory deserves resurrection | Supported | EXP-017 |
+| H143 | Selective resurrection improves organization | Supported | EXP-017 |
+| H144 | Memory ecosystems exhibit evolutionary pressure | Supported | EXP-017 |
+| H145 | Memory and activity are separate | Supported | EXP-017 |
+| H146 | Loss is not equivalent to forgetting | Supported | EXP-017 vs EXP-016 |
+| H147 | Need alone is insufficient; resources matter | Supported | EXP-017 |
+| H148 | Selection is more fundamental than resurrection | Strengthened | EXP-017, reinforced EXP-018 |
+| H149 | Latent diversity exceeds active diversity | Supported | EXP-017 |
+
+---
+
+## EXP-018 — Memory Cooperation (negative result)
+
+| ID | Statement | Status | Experiment |
+|----|-----------|--------|------------|
+| H150 | Memory traces can cooperate | **Not supported** | EXP-018 |
+| H151 | Coalitions compete with individuals | **Not supported** | EXP-018 |
+| H152 | Weak memories survive through alliances | **Not supported** | EXP-018 |
+| H153 | Selection alone is insufficient | **Not supported** | EXP-018 — selection reproduced EXP-017 |
+| H154 | Competition easier to obtain than cooperation | Weak | EXP-018 |
+| H155 | Cooperation requires richer mechanisms | Weak | EXP-018 |
+
+---
+
+## Summary Counts (H1–H155)
 
 | Status | Count (approx.) |
 |--------|-----------------|
-| Supported | ~95 |
-| Strengthened | ~15 |
-| Weak | ~8 |
-| Unresolved | ~14 |
+| Supported | ~108 |
+| Strengthened | ~17 |
+| Weak | ~10 |
+| Unresolved | ~12 |
+| Not supported | 4 (H150–H153) |
 | Rejected | 0 explicit |
 
-*H2 and H15 weakened but not rejected — questions remain useful derived objects, not primitives.*
+*H2 and H15 weakened but not rejected. H150–H153 explicitly not supported by EXP-018 negative result.*

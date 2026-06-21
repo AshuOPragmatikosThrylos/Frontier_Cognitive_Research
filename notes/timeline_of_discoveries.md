@@ -157,13 +157,33 @@ EXP-001 through EXP-016. Concise record for memory recovery.
 ## EXP-016 — Ecosystem Forgetting
 
 **Theme:** Perfect memory (A) vs selective decay (B)  
-**Main result:** *Implementation complete; formal results doc pending*  
-**Surprise (expected):** Clutter trace forgotten in B; bird trace weakened but reconstructible  
-**New hypotheses:** H133+ (not yet assigned)  
-**Importance:** A — memory maintenance; completes forgetting arc
+**Main result:** Clutter trace forgotten in B; bird trace weakened but reconstructible  
+**Surprise:** Loss vs forgetting are distinct failure modes  
+**New hypotheses:** H133–H136  
+**Importance:** A — memory maintenance
+
+---
+
+## EXP-017 — Memory Trace Competition
+
+**Theme:** Multiple traces, budget=1, rank by strength  
+**Main result:** Bird won; mammal/insect traces retained but not expressed  
+**Surprise:** Reopened tension ≠ guaranteed reconstruction  
+**New hypotheses:** H141–H149  
+**Importance:** S+ — selection gates resurrection
+
+---
+
+## EXP-018 — Memory Cooperation (negative)
+
+**Theme:** Weak traces form coalitions; compete with individuals  
+**Main result:** **No coalitions formed.** Bird won solo — same as EXP-017  
+**Surprise:** Negative result **strengthened** EXP-017 confidence  
+**New hypotheses:** H150–H155 (H150–H153 not supported)  
+**Importance:** S — valuable falsification; program resistance
 
 ---
 
 ## Chronological Arc (one line)
 
-Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → resurrection → trace memory → forgetting.
+Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → resurrection → trace memory → forgetting → **competition → failed cooperation**.
