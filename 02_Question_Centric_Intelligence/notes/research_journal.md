@@ -22,3 +22,19 @@ Working model:
 4. Let curiosity debt drive exploration until the question resolves, evolves, or dies.
 
 Open direction: whether a system defined by its unresolved questions can outperform one defined by its answers.
+
+## Discussion 002
+
+Theme: Question Lifecycle
+
+New hypothesis:
+
+- H6: Questions possess state and lifecycle.
+
+Main idea:
+
+Questions are first-class entities and should not be treated as simple strings. Each question carries attributes — state, curiosity debt, importance, lineage, and encounter history — that govern how it competes for attention over time.
+
+Curiosity debt increases whenever related anomalies are encountered. A question that keeps resurfacing without resolution accumulates pressure to be investigated again.
+
+Long-lived questions may characterize intelligence. A system remembered by its enduring unresolved questions may be more capable than one that only stores settled answers.
