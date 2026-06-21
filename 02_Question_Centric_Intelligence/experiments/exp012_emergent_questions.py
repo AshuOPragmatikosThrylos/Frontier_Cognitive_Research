@@ -114,7 +114,8 @@ def form_difference_groups(state: WorldState, category: str) -> list[str]:
 
 def groups_for_category(state: WorldState, category: str) -> list[DifferenceGroup]:
     return sorted(
-        group for group in state.difference_groups.values() if group.category == category
+        (group for group in state.difference_groups.values() if group.category == category),
+        key=lambda group: group.name,
     )
 
 
