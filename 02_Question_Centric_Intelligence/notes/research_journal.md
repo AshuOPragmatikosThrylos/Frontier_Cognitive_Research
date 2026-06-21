@@ -141,3 +141,19 @@ New hypotheses:
 Main idea:
 
 Questions can question themselves. Meta-questions, reflection cycles, and stacked meta-levels turn inquiry inward — enabling self-correction and recursive improvement of the questioning process.
+
+## Discussion 010
+
+Theme: Contradiction and Tension
+
+New hypotheses:
+
+- H33: Contradiction gives rise to questions.
+- H34: Contradiction is the source of intelligence.
+- H35: Intelligence is the process of resolving contradictions.
+- H36: Intelligence requires incompleteness.
+- H37: Curiosity exists between order and chaos.
+
+Main idea:
+
+Contradiction — mismatch between expectation and reality — births questions and drives inquiry. Intelligence may require incompleteness and operate in the tension between order and chaos, not at either extreme.
