@@ -530,7 +530,10 @@ def trace_count(state: WorldResult) -> int:
 
 
 def clutter_count(state: WorldResult) -> int:
-    return sum(1 for trace in state.memory_traces if trace.trace_id == "mem-orphan-clutter")
+    return sum(
+        1 for trace in state.memory_traces.values()
+        if trace.trace_id == "mem-orphan-clutter"
+    )
 
 
 def identity_preserved(state: WorldResult) -> bool:
