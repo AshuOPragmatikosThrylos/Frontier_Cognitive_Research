@@ -1,20 +1,20 @@
 # Open Questions
 
-Research-facing unknowns as of EXP-022. Not implementation tasks.
+Research-facing unknowns as of EXP-023. Not implementation tasks.
 
 ---
 
 ## Most Important Unresolved Questions
 
-1. **Does organization survive tension removal?** EXP-022 floor is difference+tension — tensions not yet attacked.
+1. **Does organization survive tension removal?** EXP-023 floor is tension — not yet attacked.
 
-2. **Does organization survive difference removal?** True primitive may lie deeper.
+2. **Does organization survive difference removal?** Bedrock may be difference alone (EXP-011 hint).
 
-3. **What is the minimal surviving motif?** Sequential stripping: selection → persistence → questions → tensions → differences.
+3. **Is tension fundamental or is difference the bedrock?** Hierarchy candidate: Difference → Tension — order may revise.
 
-4. **Does fresh emergence survive additional attacks?** Validated once; not stress-tested beyond persistence removal.
+4. **What is the minimal surviving motif?** Sequential stripping: selection → persistence → questions → **tensions next**.
 
-5. **Is difference the absolute floor?** EXP-011 World D suggests difference may be primitive — untested under EXP-022-style removal.
+5. **Should the program rename?** Question-Centric Intelligence vs tension-centric reality.
 
 ---
 
@@ -22,21 +22,21 @@ Research-facing unknowns as of EXP-022. Not implementation tasks.
 
 | Assumption | Risk |
 |------------|------|
-| Persistence is fundamental | **Falsified** — EXP-022 |
-| Memory required for organization | **Falsified** — EXP-022 |
-| Identity required for questions | **Falsified** — fresh emergence works |
-| Difference+tension is the floor | **Untested** — not yet attacked |
-| Destructive tests always find deeper layer | May eventually hit true collapse |
+| Questions are fundamental | **Falsified** — EXP-023 |
+| Tensions are fundamental | **Untested** — next attack target |
+| Difference is bedrock | Plausible (EXP-011) — not yet isolated |
+| Destructive arc always finds survivor | May eventually hit true collapse |
+| Question layer needed for cognition narrative | Falsified for organization |
 
 ---
 
 ## Most Promising Directions
 
-1. **Question removal** — attack question layer; do tensions alone organize?
-2. **Tension removal** — strip persistent tensions after difference formation.
-3. **Difference removal** — minimal observation set; find collapse point.
-4. **Fresh emergence under stress** — combine with tension/difference stripping.
-5. **EXP-011 + EXP-022 synthesis** — minimal worlds meets destructive methodology.
+1. **Tension removal (EXP-024?)** — strip persistent tensions; observe collapse or survival.
+2. **Difference removal** — minimal observation set only.
+3. **Bedrock identification** — formalize Difference → Tension hierarchy.
+4. **EXP-011 + EXP-023 synthesis** — minimal worlds without questions.
+5. **Optional layer catalog** — document what each removed layer provided when present.
 
 ---
 
@@ -44,37 +44,50 @@ Research-facing unknowns as of EXP-022. Not implementation tasks.
 
 1. **Organization collapses when tensions removed** — difference alone insufficient.
 
-2. **Fresh emergence requires same question ids** — not true recurrence, just naming convention.
+2. **Only raw observations remain** — entire stack is labeling.
 
-3. **Only observations remain** — entire stack is notation over raw data.
+3. **Tension removal succeeds** — difference is true primitive; tension also optional.
 
 ---
 
 ## Questions That Could Strengthen the Theory
 
-1. **Difference survives tension removal** — confirms EXP-011 direction.
+1. **Tension survives difference removal** — confirms tension as floor.
 
-2. **Fresh emergence survives question removal** — tensions organize without questions.
+2. **Difference survives as bedrock** — aligns with EXP-011 World D.
 
-3. **Formal floor identified** — single primitive with testable preconditions.
+3. **Formal hierarchy with testable preconditions** — each layer documents what it adds when enabled.
 
-4. **EXP-021 + EXP-022 + EXP-011 paper arc** — destructive methodology as contribution.
+4. **Destructive arc paper** — EXP-021–023 as methodology contribution.
 
 ---
 
-## Resolved or Partially Resolved (since EXP-021)
+## Resolved or Partially Resolved (since EXP-022)
 
-- **Persistence fundamental (H178):** Not supported — EXP-022.
-- **Reconstruction necessary (H182):** Falsified — fresh emergence sufficient.
-- **Identity necessary (H185):** Falsified — secondary.
-- **Memory necessary (H184):** Falsified — optimization only.
-- **Something beneath persistence (H180):** Supported — difference+tension.
-- **H177 qualified:** Persistence > selection but neither fundamental.
+- **Questions fundamental (H187):** Not supported — EXP-023.
+- **Tensions maintain organization (H188):** Supported — World B.
+- **Questions express/compress tensions (H189–H191):** Supported.
+- **Organization precedes representation (H193):** Supported.
+- **Fresh emergence required for org:** Falsified — World B has no emergence.
 
 ---
 
 ## Carried Forward
 
-- Selection demoted (EXP-021) — unchanged.
-- Domain boundaries (EXP-020) — secondary to floor search.
-- Primitive operation: **difference + tension** (current working hypothesis).
+- Tension attack — **top priority**.
+- Difference attack — after tension.
+- H2 (questions primary) — further weakened.
+
+---
+
+## Candidate Hierarchy (working)
+
+```
+Difference
+    ↓
+Tension
+    ↓
+[optional] Questions → Memory → Selection
+```
+
+Everything above tension currently considered optional.

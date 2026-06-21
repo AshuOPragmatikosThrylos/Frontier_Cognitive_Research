@@ -2,13 +2,13 @@
 
 **Purpose:** Paste or attach at start of a new session. Compact state of Frontier Cognitive Research / QCI program.
 
-**Last updated:** 2026-06-22 (post EXP-022 — persistence falsified; difference+tension survive)
+**Last updated:** 2026-06-22 (post EXP-023 — questions falsified; tension floor)
 
 ---
 
 ## One-Sentence State
 
-Difference-first stack; **difference + tension organize without persistence** (EXP-022); selection assumption-imposed (EXP-021); memory/identity optional — fresh emergence replaces reconstruction when traces decay.
+**Difference → Tension** candidate hierarchy; questions/memory/selection **optional** (EXP-021–023); organization survives without question layer (EXP-023).
 
 ---
 
@@ -16,36 +16,49 @@ Difference-first stack; **difference + tension organize without persistence** (E
 
 ```
 02_Question_Centric_Intelligence/
-├── experiments/exp001–exp022.py
-├── results/exp001–exp022 documented
+├── experiments/exp001–exp023.py
+├── results/exp001–exp023 documented
 └── src/ (EXP-001–011 only)
 notes/ ← MEMORY LAYER
 ```
 
 ---
 
+## Candidate Hierarchy
+
+```
+Difference
+    ↓
+Tension
+```
+
+**Everything above tension optional:** questions, memory, persistence, selection, identity.
+
+---
+
 ## Current Phase
 
-**Phase IX: Persistence removal — organization survives without memory** (EXP-022)
+**Phase X: Question removal — org survives without questions** (EXP-023)
 
-| EXP | Result |
-|-----|--------|
-| 021 | Selection falsified |
-| **022** | **Persistence falsified** — org survives; fresh emergence |
+| EXP | Attack | Survivor |
+|-----|--------|----------|
+| 021 | Selection | Persistence (qualified) |
+| 022 | Persistence | Difference + tension |
+| **023** | **Questions** | **Difference + tension** |
 
 ---
 
 ## Current Direction
 
-1. **Do not treat persistence as fundamental** (H178 falsified).
-2. **Difference + tension** are deeper primitives (H186).
-3. Next: attack questions → tensions → differences; find floor.
+1. **Questions not fundamental** (H187).
+2. **Tensions maintain organization** (H188).
+3. Next: attack tensions → differences → bedrock.
 
 ---
 
 ## Narrative (30 seconds)
 
-Built memory (015), selection (017), cross-domain (020). **EXP-021:** selection gone, persistence remains. **EXP-022:** persistence gone, **organization remains** — questions via fresh emergence, not reconstruction.
+Built question ecology (001–011). Memory/selection (015–020). **Destructive arc:** 021 selection gone, 022 persistence gone, **023 questions gone** — **difference+tension remain**.
 
 ---
 
@@ -53,12 +66,12 @@ Built memory (015), selection (017), cross-domain (020). **EXP-021:** selection 
 
 | Tier | Experiments |
 |------|-------------|
-| **S++** | EXP-010, 011, 020, 021, **022** |
+| **S++** | EXP-010, 011, 020, 021, 022, **023** |
 | **S+** | EXP-003, 008, 012, 015, 017 |
 | **S** | EXP-004, 009, 013, 014, 018, 019 |
 | **A** | EXP-001, 002, 005–007, 016 |
 
-**EXP-022 = one of most important experiments** — persistence attacked, org survived.
+**EXP-023 = one of most important** — removed namesake layer, org survived.
 
 ---
 
@@ -66,33 +79,31 @@ Built memory (015), selection (017), cross-domain (020). **EXP-021:** selection 
 
 | | % |
 |--|---|
-| Interesting Framework | 91 |
-| Useful Framework | 65 |
-| Preprint-worthy Narrative | 55 |
-| New Cognitive Principles | 50 |
-| Selection as Fundamental | 22 |
-| **Persistence as Fundamental** | **38** ↓↓ |
-| **Fresh Emergence as Organizing** | **62** ↑↑ |
-| Cross-domain Potential | 48 |
-| Fundamental Breakthrough | 13 |
-| **Dead-end Risk** | **15** ↓ |
+| Interesting Framework | 93 |
+| Useful Framework | 68 |
+| Preprint-worthy Narrative | 58 |
+| **Questions as Fundamental** | **25** ↓↓ |
+| **Tensions as Fundamental** | **74** ↑↑ |
+| Selection / Persistence | 22 / 38 |
+| Fresh Emergence | 58 |
+| Fundamental Breakthrough | 15 |
+| **Dead-end Risk** | **13** ↓ |
 
 ---
 
-## Key Hypotheses (H178–H186)
+## Key Hypotheses (H187–H193)
 
 | ID | Claim | Status |
 |----|-------|--------|
-| H178 | Persistence is fundamental | **Not supported** |
-| H180 | Something beneath persistence exists | Supported |
-| H181 | Transient traces can still organize | Supported |
-| H182 | Reconstruction unnecessary | Supported |
-| H183 | Emergence dominates memory | Supported |
-| H184 | Memory is optimization not necessity | Supported |
-| H185 | Identity continuity secondary | Supported |
-| H186 | Difference+tension > persistence | Supported |
+| H187 | Questions not fundamental | Supported |
+| H188 | Tensions alone maintain organization | Supported |
+| H189 | Questions express tensions | Supported |
+| H190 | Questions epiphenomena | Supported |
+| H191 | Questions compress tensions | Supported |
+| H192 | Objects are conveniences | Supported |
+| H193 | Organization precedes representation | Supported |
 
-Full H1–H186: `notes/major_hypotheses.md`
+Full H1–H193: `notes/major_hypotheses.md`
 
 ---
 
@@ -100,14 +111,10 @@ Full H1–H186: `notes/major_hypotheses.md`
 
 | | World A | World B |
 |--|---------|---------|
-| Traces | 3 persistent | 0 (decayed) |
-| Questions | 3 reconstructed | 3 fresh emergent |
+| Questions | 3 live | **0** |
+| Difference groups | 6 | 6 |
+| Persistent tensions | 3 | 3 |
 | Organization | Yes | **Yes** |
-
-| | EXP-021 attack | EXP-022 attack |
-|--|----------------|----------------|
-| Target | Selection | Persistence |
-| Survivor | Persistence | **Difference + tension** |
 
 ---
 
@@ -115,13 +122,13 @@ Full H1–H186: `notes/major_hypotheses.md`
 
 1. Does organization survive tension removal?
 2. Does organization survive difference removal?
-3. What is the minimal surviving motif?
+3. Is difference the bedrock?
 
 ---
 
 ## Git
 
-- Latest impl: QCI-033 (EXP-022)
+- Latest impl: QCI-034 (EXP-023)
 - Results docs: pending user commit
 
 ---
@@ -135,12 +142,12 @@ Full H1–H186: `notes/major_hypotheses.md`
 
 ## Active Tensions
 
-1. **Persistence demoted** — optional optimization, not primitive.
-2. **Fresh emergence elevated** — questions recurrent, not preserved.
-3. **Destructive arc** — 021 selection, 022 persistence; floor unknown.
+1. **Program name ironic** — Question-Centric but questions optional.
+2. **Tension floor** — current candidate primitive; not yet attacked.
+3. **Destructive arc** — 021→022→023; three layers demolished.
 
 ---
 
 ## Kill Criteria
 
-Persistence-as-fundamental **falsified**. Difference+tension remain. See `notes/kill_criteria.md`.
+Questions-as-fundamental **falsified**. Tension+difference remain. See `notes/kill_criteria.md`.

@@ -22,7 +22,7 @@ EXP-010 introduced **falsification**: random control worlds produce entropy, not
 
 EXP-011 was the **inversion point**. World D (difference-only) reproduced Bird partitioning **without questions, communities, pressure, or tolerance**. The primitive operation may be **difference management**, with questions as derived compressions.
 
-EXP-012 through EXP-022 **descended the stack** without importing `src/`:
+EXP-012 through EXP-023 **descended the stack** without importing `src/`:
 - Emergent questions from persistent tensions (EXP-012)
 - Lifecycles and extinction (EXP-013)
 - Resurrection on same object (EXP-014)
@@ -34,8 +34,9 @@ EXP-012 through EXP-022 **descended the stack** without importing `src/`:
 - Cross-domain selection reproduction — **partial success** (EXP-020)
 - Assumption removal — **selection falsified** (EXP-021)
 - Persistence removal — **persistence falsified, organization survives** (EXP-022)
+- Question removal — **questions falsified, organization survives** (EXP-023)
 
-The arc: **questions-first → ecology → evolution → falsification → minimal worlds → difference-first → memory, competition, failed cooperation, failed merging → cross-domain validation → assumption removal / selection demoted → persistence removal / difference+tension elevated**.
+The arc: **questions-first → ecology → evolution → falsification → minimal worlds → difference-first → memory, competition, failed extensions → cross-domain validation → destructive arc (selection, persistence, questions removed) → tension-centric reframe**.
 
 ---
 
@@ -51,7 +52,8 @@ The arc: **questions-first → ecology → evolution → falsification → minim
 | **VI. Difference-first** | EXP-012–019 | Tensions, lifecycles, memory, competition, cooperation/merging (failed) |
 | **VII. Cross-domain** | EXP-020 | Selection reproduction across four domains; boundary failure |
 | **VIII. Assumption removal** | EXP-021 | Selection falsified; persistence elevated (then qualified) |
-| **IX. Persistence removal** | EXP-022 | Persistence falsified; organization survives; fresh emergence |
+| **IX. Persistence removal** | EXP-022 | Persistence falsified; organization survives |
+| **X. Question removal** | EXP-023 | Questions falsified; tension floor confirmed |
 
 ---
 
@@ -64,9 +66,10 @@ The arc: **questions-first → ecology → evolution → falsification → minim
 5. **Resistance era (EXP-018–019):** Documented negative results — cooperation and merging falsified at memory layer.
 6. **Cross-domain era (EXP-020):** Selection reproduced in 3/4 domains; Distributed Databases exposed theory boundary.
 7. **Assumption-removal era (EXP-021):** Stripped rank/budget/strength ordering — selection vanished; persistence survived.
-8. **Persistence-removal era (EXP-022):** Stripped stable memory, identity, reconstruction — organization survived via fresh emergence; difference+tension elevated.
+8. **Persistence-removal era (EXP-022):** Stripped stable memory — organization survived via fresh emergence.
+9. **Question-removal era (EXP-023):** Removed question layer entirely — organization survived; tensions alone sufficient.
 
-Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–022 use self-contained experiment files with local dataclasses.
+Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–023 use self-contained experiment files with local dataclasses.
 
 ---
 
@@ -86,7 +89,8 @@ Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–022 us
 12. **Merging failed (EXP-019).** Repeated co-activation; no abstractions — memory identity resistant; contrasts EXP-002 question merge.
 13. **Cross-domain partial success (EXP-020).** Selection in Animals, Software Bugs, Scientific Theories; failed in Distributed Databases — recurrence without universality.
 14. **Selection falsified (EXP-021).** Assumption removal destroyed selection motif; persistence invariant — one of most important experiments.
-15. **Persistence falsified (EXP-022).** Transient traces, no reconstruction — organization survived; fresh emergence replaced memory — one of most important experiments.
+15. **Persistence falsified (EXP-022).** Transient traces; organization survived — difference+tension elevated.
+16. **Questions falsified (EXP-023).** Question-Centric program removed questions — organization survived; tensions maintain structure.
 
 ---
 
@@ -105,17 +109,19 @@ Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–022 us
 - **Questions ≠ memories** (H163): question merge works (EXP-002); memory merge does not under co-activation alone.
 - **Cross-domain selection** (EXP-020): competition reproduces in 3/4 domains (H165); **same exported assumptions — qualified by EXP-021 (H176).**
 - **Assumption removal** (EXP-021): selection not fundamental (H175); persistence > selection (H177, **qualified by EXP-022**).
-- **Persistence removal** (EXP-022): persistence not fundamental (H178); difference+tension deeper (H186); fresh emergence dominates memory (H183).
+- **Persistence removal** (EXP-022): persistence not fundamental (H178); difference+tension deeper (H186).
+- **Question removal** (EXP-023): questions not fundamental (H187); tensions maintain org (H188); organization precedes representation (H193).
 
 ---
 
 ## Current Worldview
 
-Intelligence in this program is modeled as **ecological difference management under scarcity**:
+Intelligence in this program is modeled as **ecological difference management**, with **tension as the current organizing floor**:
 
 - Observations create **differences**.
-- Persistent differences create **tensions**.
-- Tensions compress into **questions** (temporary, lifecycle-bound).
+- Persistent differences create **tensions** — **current candidate primitive**.
+- **Questions** compress tensions into live objects — **optional** (EXP-023).
+- **Memory, persistence, selection** — optional optimizations (EXP-021–022).
 - **Communities** evolve via pressure, tolerance, and speciation when contradictions exceed capacity.
 - **Attention** allocates scarce processing; **memory** persists separately.
 - **Traces** outlive question instances when persistence enabled (EXP-015); **optional** — organization survives without (EXP-022).
@@ -127,4 +133,4 @@ Intelligence in this program is modeled as **ecological difference management un
 - **Questions and memories obey different rules** (H163) — merge at question layer (EXP-002), resistance at trace layer.
 - **Selection partially generalizes** (EXP-020) — reproduces across unrelated domains but requires preconditions (H168); **falsified as fundamental** (EXP-021, H175–H176).
 
-We do **not** claim this is how real minds work. We claim the toy ecosystem produces coherent, falsifiable dynamics — including **negative results** (EXP-018, EXP-019), **boundary results** (EXP-020), and **destructive falsifications** (EXP-021 selection, EXP-022 persistence) — that challenge answer-centric and question-primitive assumptions. **Difference and tension** organize; memory optimizes; selection filters if imposed; questions recur via emergence or reconstruction.
+We do **not** claim this is how real minds work. We claim the toy ecosystem produces coherent, falsifiable dynamics — including **destructive falsifications** (EXP-021–023) — that challenge answer-centric and question-primitive assumptions. **Candidate hierarchy: Difference → Tension.** Everything above tension is optional.

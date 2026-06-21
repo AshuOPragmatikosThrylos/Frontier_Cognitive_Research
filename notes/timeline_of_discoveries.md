@@ -1,6 +1,6 @@
 # Timeline of Discoveries
 
-EXP-001 through EXP-022. Concise record for memory recovery.
+EXP-001 through EXP-023. Concise record for memory recovery.
 
 ---
 
@@ -224,6 +224,16 @@ EXP-001 through EXP-022. Concise record for memory recovery.
 
 ---
 
+## EXP-023 — Question Removal
+
+**Theme:** Attack questions — tension-only vs question layer  
+**Main result:** World B: 0 questions; **organization survived** (6 groups, 3 tensions)  
+**Surprise:** Question-Centric Intelligence removed questions; structure intact  
+**New hypotheses:** H187–H193 supported  
+**Importance:** **S++** — one of most important; namesake layer optional
+
+---
+
 ## Chronological Arc (one line)
 
-Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → resurrection → trace memory → forgetting → competition → failed cooperation → failed merging → cross-domain partial success → assumption removal / selection demoted → **persistence removal / difference+tension elevated**.
+Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → memory arc → destructive tests (021–023) → **tension-centric reframe**.

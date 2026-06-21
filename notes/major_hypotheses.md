@@ -1,4 +1,4 @@
-# Major Hypotheses (H1–H186)
+# Major Hypotheses (H1–H193)
 
 Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rejected**
 
@@ -342,3 +342,33 @@ Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rej
 | Rejected | 0 explicit |
 
 *EXP-022: persistence falsified; difference+tension elevated. H177 qualified — persistence > selection but neither fundamental.*
+
+---
+
+## EXP-023 — Question Removal (questions falsified)
+
+| ID | Statement | Status | Experiment |
+|----|-----------|--------|------------|
+| H187 | Questions are not fundamental | Supported | EXP-023 |
+| H188 | Tensions alone maintain organization | Supported | EXP-023 |
+| H189 | Questions are expressions of tensions | Supported | EXP-023 |
+| H190 | Questions are epiphenomena | Supported | EXP-023 |
+| H191 | Questions are compressed representations of tensions | Supported | EXP-023 |
+| H192 | Objects are conveniences rather than necessities | Supported | EXP-023 |
+| H193 | Organization precedes representation | Supported | EXP-023 |
+
+---
+
+## Summary Counts (H1–H193)
+
+| Status | Count (approx.) |
+|--------|-----------------|
+| Supported | ~133 |
+| Strengthened | ~17 |
+| Partial | 1 (H164) |
+| Weak | ~11 |
+| Unresolved | ~10 |
+| Not supported | 12 (H150–H153, H156–H159, H171–H173, H178) |
+| Rejected | 0 explicit |
+
+*EXP-023: questions falsified; tension floor. H2 (questions primary) further weakened.*
