@@ -1,4 +1,4 @@
-# Major Hypotheses (H1–H193)
+# Major Hypotheses (H1–H201)
 
 Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rejected**
 
@@ -359,16 +359,31 @@ Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rej
 
 ---
 
-## Summary Counts (H1–H193)
+## EXP-024 — Tension Removal (tensions falsified)
+
+| ID | Statement | Status | Experiment |
+|----|-----------|--------|------------|
+| H194 | Tension is fundamental | **Not supported** | EXP-024 |
+| H195 | Differences alone cannot organize | **Not supported** | EXP-024 |
+| H196 | Tension is the first irreducible structure | **Not supported** | EXP-024 |
+| H197 | Removing tension destroys organization | **Not supported** | EXP-024 |
+| H198 | Differences alone maintain organization | Supported | EXP-024 |
+| H199 | Tensions are pairwise summaries of differences | Supported | EXP-024 |
+| H200 | Organization precedes conflict | Supported | EXP-024 |
+| H201 | Difference groups are sufficient | Supported | EXP-024 |
+
+---
+
+## Summary Counts (H1–H201)
 
 | Status | Count (approx.) |
 |--------|-----------------|
-| Supported | ~133 |
+| Supported | ~137 |
 | Strengthened | ~17 |
 | Partial | 1 (H164) |
 | Weak | ~11 |
 | Unresolved | ~10 |
-| Not supported | 12 (H150–H153, H156–H159, H171–H173, H178) |
+| Not supported | 16 (H150–H153, H156–H159, H171–H173, H178, **H194–H197**) |
 | Rejected | 0 explicit |
 
-*EXP-023: questions falsified; tension floor. H2 (questions primary) further weakened.*
+*EXP-024: tensions falsified; difference floor. H78 (tension more fundamental than questions) further weakened.*

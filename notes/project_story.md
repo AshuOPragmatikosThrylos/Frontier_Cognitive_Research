@@ -22,7 +22,7 @@ EXP-010 introduced **falsification**: random control worlds produce entropy, not
 
 EXP-011 was the **inversion point**. World D (difference-only) reproduced Bird partitioning **without questions, communities, pressure, or tolerance**. The primitive operation may be **difference management**, with questions as derived compressions.
 
-EXP-012 through EXP-023 **descended the stack** without importing `src/`:
+EXP-012 through EXP-024 **descended the stack** without importing `src/`:
 - Emergent questions from persistent tensions (EXP-012)
 - Lifecycles and extinction (EXP-013)
 - Resurrection on same object (EXP-014)
@@ -35,8 +35,9 @@ EXP-012 through EXP-023 **descended the stack** without importing `src/`:
 - Assumption removal — **selection falsified** (EXP-021)
 - Persistence removal — **persistence falsified, organization survives** (EXP-022)
 - Question removal — **questions falsified, organization survives** (EXP-023)
+- Tension removal — **tensions falsified, organization survives** (EXP-024)
 
-The arc: **questions-first → ecology → evolution → falsification → minimal worlds → difference-first → memory, competition, failed extensions → cross-domain validation → destructive arc (selection, persistence, questions removed) → tension-centric reframe**.
+The arc: **questions-first → ecology → evolution → falsification → minimal worlds → difference-first → memory, competition, failed extensions → cross-domain validation → destructive arc (selection, persistence, questions, tensions removed) → difference-centric reframe**.
 
 ---
 
@@ -54,6 +55,7 @@ The arc: **questions-first → ecology → evolution → falsification → minim
 | **VIII. Assumption removal** | EXP-021 | Selection falsified; persistence elevated (then qualified) |
 | **IX. Persistence removal** | EXP-022 | Persistence falsified; organization survives |
 | **X. Question removal** | EXP-023 | Questions falsified; tension floor confirmed |
+| **XI. Tension removal** | EXP-024 | Tensions falsified; difference floor confirmed |
 
 ---
 
@@ -68,8 +70,9 @@ The arc: **questions-first → ecology → evolution → falsification → minim
 7. **Assumption-removal era (EXP-021):** Stripped rank/budget/strength ordering — selection vanished; persistence survived.
 8. **Persistence-removal era (EXP-022):** Stripped stable memory — organization survived via fresh emergence.
 9. **Question-removal era (EXP-023):** Removed question layer entirely — organization survived; tensions alone sufficient.
+10. **Tension-removal era (EXP-024):** Removed tension layer entirely — organization survived; differences alone sufficient.
 
-Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–023 use self-contained experiment files with local dataclasses.
+Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–024 use self-contained experiment files with local dataclasses.
 
 ---
 
@@ -91,6 +94,7 @@ Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–023 us
 14. **Selection falsified (EXP-021).** Assumption removal destroyed selection motif; persistence invariant — one of most important experiments.
 15. **Persistence falsified (EXP-022).** Transient traces; organization survived — difference+tension elevated.
 16. **Questions falsified (EXP-023).** Question-Centric program removed questions — organization survived; tensions maintain structure.
+17. **Tensions falsified (EXP-024).** Removed tension layer — organization survived; difference groups alone sufficient.
 
 ---
 
@@ -110,16 +114,17 @@ Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–023 us
 - **Cross-domain selection** (EXP-020): competition reproduces in 3/4 domains (H165); **same exported assumptions — qualified by EXP-021 (H176).**
 - **Assumption removal** (EXP-021): selection not fundamental (H175); persistence > selection (H177, **qualified by EXP-022**).
 - **Persistence removal** (EXP-022): persistence not fundamental (H178); difference+tension deeper (H186).
-- **Question removal** (EXP-023): questions not fundamental (H187); tensions maintain org (H188); organization precedes representation (H193).
+- **Question removal** (EXP-023): questions not fundamental (H187); tensions maintain org (H188) — **qualified by EXP-024**.
+- **Tension removal** (EXP-024): tensions not fundamental (H194); differences maintain org (H198); organization precedes conflict (H200).
 
 ---
 
 ## Current Worldview
 
-Intelligence in this program is modeled as **ecological difference management**, with **tension as the current organizing floor**:
+Intelligence in this program is modeled as **ecological difference management**, with **difference as the current organizing floor**:
 
-- Observations create **differences**.
-- Persistent differences create **tensions** — **current candidate primitive**.
+- Observations create **differences** — **current candidate primitive**.
+- **Tensions** pair and rank group conflicts — **optional** (EXP-024).
 - **Questions** compress tensions into live objects — **optional** (EXP-023).
 - **Memory, persistence, selection** — optional optimizations (EXP-021–022).
 - **Communities** evolve via pressure, tolerance, and speciation when contradictions exceed capacity.
@@ -133,4 +138,4 @@ Intelligence in this program is modeled as **ecological difference management**,
 - **Questions and memories obey different rules** (H163) — merge at question layer (EXP-002), resistance at trace layer.
 - **Selection partially generalizes** (EXP-020) — reproduces across unrelated domains but requires preconditions (H168); **falsified as fundamental** (EXP-021, H175–H176).
 
-We do **not** claim this is how real minds work. We claim the toy ecosystem produces coherent, falsifiable dynamics — including **destructive falsifications** (EXP-021–023) — that challenge answer-centric and question-primitive assumptions. **Candidate hierarchy: Difference → Tension.** Everything above tension is optional.
+We do **not** claim this is how real minds work. We claim the toy ecosystem produces coherent, falsifiable dynamics — including **destructive falsifications** (EXP-021–024) — that challenge answer-centric and question-primitive assumptions. **Candidate hierarchy: Difference.** Everything above difference is optional.

@@ -1,6 +1,6 @@
 # Timeline of Discoveries
 
-EXP-001 through EXP-023. Concise record for memory recovery.
+EXP-001 through EXP-024. Concise record for memory recovery.
 
 ---
 
@@ -234,6 +234,16 @@ EXP-001 through EXP-023. Concise record for memory recovery.
 
 ---
 
+## EXP-024 — Tension Removal
+
+**Theme:** Attack tensions — difference-only vs tension layer  
+**Main result:** World B: 0 tensions; **organization survived** (6 difference groups)  
+**Surprise:** Tension floor removed; structure intact at difference layer  
+**New hypotheses:** H194–H197 not supported; H198–H201 supported  
+**Importance:** **S++** — one of most important; tensions falsified
+
+---
+
 ## Chronological Arc (one line)
 
-Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → memory arc → destructive tests (021–023) → **tension-centric reframe**.
+Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → memory arc → destructive tests (021–024) → **difference-centric reframe**.

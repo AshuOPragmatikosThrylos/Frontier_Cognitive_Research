@@ -13,7 +13,8 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 | **EXP-020** | Cross-domain validation. Selection reproduced in 3/4 unrelated domains under identical rules; Distributed Databases boundary failure exposed theory limits. Recurrence without universality. |
 | **EXP-021** | Assumption removal. Identical traces — World A selection (rank+budget), World B no selection. **Falsified selection as fundamental primitive.** Persistence invariant. One of most important experiments. Destroyed project's strongest competitive motif. |
 | **EXP-022** | Persistence removal. World A persistent traces + reconstruction; World B transient decay + fresh emergence. **Organization survived both.** Falsified persistence as fundamental. Difference+tension elevated. One of most important experiments. |
-| **EXP-023** | Question removal. World A questions + fresh emergence; World B tensions only. **Organization survived both.** Falsified questions as fundamental. Program namesake layer optional. Candidate hierarchy: Difference→Tension. One of most important experiments. |
+| **EXP-023** | Question removal. World A questions + fresh emergence; World B tensions only. **Organization survived both.** Falsified questions as fundamental. Program namesake layer optional. One of most important experiments. |
+| **EXP-024** | Tension removal. World A differences + persistent tensions; World B differences only. **Organization survived both.** Falsified tensions as fundamental. Difference floor confirmed. One of most important experiments. |
 
 ---
 
@@ -57,7 +58,7 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 
 ## Not Ranked Lower Deliberately
 
-All EXP-001–023 contributed. EXP-021, EXP-022, EXP-023 rank **S++** — sequential destructive tests; EXP-023 removes namesake primitive.
+All EXP-001–024 contributed. EXP-021, EXP-022, EXP-023, EXP-024 rank **S++** — sequential destructive tests; EXP-024 removes tension floor.
 
 ---
 
@@ -74,7 +75,7 @@ A    → Necessary construction or extension; less surprising alone
 
 ## If Reading One Experiment Per Tier
 
-- **S++:** EXP-011, **EXP-023** (question removal), or EXP-021/022 (destructive arc)
+- **S++:** EXP-011, **EXP-024** (tension removal), or EXP-021–023 (destructive arc)
 - **S+:** EXP-012 (emergence) or EXP-015 (qualified persistence)
 - **S:** EXP-018 (negative — read with EXP-017)
 - **S:** EXP-019 (negative — read with EXP-002)
