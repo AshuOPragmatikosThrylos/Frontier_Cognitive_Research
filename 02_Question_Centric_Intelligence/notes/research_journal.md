@@ -80,3 +80,18 @@ New hypotheses:
 Main idea:
 
 Attention may be an emergent property of competing unresolved questions. Finite resources force tradeoffs; starvation and dormancy are natural outcomes; revival remains possible when pressure returns.
+
+## Discussion 006
+
+Theme: Question Networks and Symbiosis
+
+New hypotheses:
+
+- H16: Questions can cooperate.
+- H17: Intelligence is graph evolution rather than fact accumulation.
+- H18: Question communities emerge naturally.
+- H19: Questions may increase the fitness of neighboring questions.
+
+Main idea:
+
+Questions form graphs and ecosystems rather than isolated entities. They support, contradict, depend on, and generalize one another. Cooperation and fitness propagation complement competition; communities cluster around shared domains of inquiry.
