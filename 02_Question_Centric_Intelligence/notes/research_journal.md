@@ -50,3 +50,18 @@ New hypothesis:
 Main idea:
 
 Questions emerge when reality violates the expectations of the world model. A prediction fails, compression breaks, and a question is born to account for the gap between what was expected and what was observed.
+
+## Discussion 004
+
+Theme: Question Evolution
+
+New hypotheses:
+
+- H8: Questions can evolve.
+- H9: Questions can merge into abstractions.
+- H10: Questions can produce descendant questions.
+- H11: Question fitness determines survival.
+
+Main idea:
+
+Questions behave like living entities and may evolve over time. They split, merge, spawn children, go dormant, and die. Lineage and fitness shape which questions persist and which fade.
