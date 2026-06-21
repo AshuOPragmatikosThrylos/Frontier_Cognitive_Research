@@ -125,3 +125,19 @@ New hypotheses:
 Main idea:
 
 Questions persist while answers evolve and die. Progress is the turnover of provisional answers under the pressure of enduring questions — across lifetimes and civilizations.
+
+## Discussion 009
+
+Theme: Recursive Questions
+
+New hypotheses:
+
+- H28: Questions generate meta-questions.
+- H29: Intelligence periodically turns inward.
+- H30: Recursive self-improvement originates from meta-questions.
+- H31: Higher intelligence corresponds to deeper meta-levels.
+- H32: Reflection is as fundamental as observation.
+
+Main idea:
+
+Questions can question themselves. Meta-questions, reflection cycles, and stacked meta-levels turn inquiry inward — enabling self-correction and recursive improvement of the questioning process.
