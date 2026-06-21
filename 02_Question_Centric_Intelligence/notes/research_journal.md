@@ -110,3 +110,18 @@ New hypotheses:
 Main idea:
 
 Questions evolve through reproduction and mutation, producing lineages similar to biological evolution. Specialization extends families; mutation explores new directions; species emerge from sustained lineages within domains.
+
+## Discussion 008
+
+Theme: Answers are Mortal, Questions are Immortal
+
+New hypotheses:
+
+- H24: Answers are temporary approximations.
+- H25: Questions have longer lifetimes than answers.
+- H26: Scientific progress is answer evolution constrained by persistent questions.
+- H27: Civilizations inherit questions.
+
+Main idea:
+
+Questions persist while answers evolve and die. Progress is the turnover of provisional answers under the pressure of enduring questions — across lifetimes and civilizations.
