@@ -38,3 +38,15 @@ Questions are first-class entities and should not be treated as simple strings. 
 Curiosity debt increases whenever related anomalies are encountered. A question that keeps resurfacing without resolution accumulates pressure to be investigated again.
 
 Long-lived questions may characterize intelligence. A system remembered by its enduring unresolved questions may be more capable than one that only stores settled answers.
+
+## Discussion 003
+
+Theme: Compression Failure
+
+New hypothesis:
+
+- H7: Compression failures are the source of curiosity.
+
+Main idea:
+
+Questions emerge when reality violates the expectations of the world model. A prediction fails, compression breaks, and a question is born to account for the gap between what was expected and what was observed.
