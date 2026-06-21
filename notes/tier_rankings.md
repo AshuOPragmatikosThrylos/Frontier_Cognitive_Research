@@ -11,6 +11,7 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 | **EXP-011** | Minimal worlds. World D reproduced Bird partition without questions, communities, pressure, or tolerance. Forced difference-first reinterpretation of entire program. |
 | **EXP-010** | First rigorous control. Proved semantic organization is mechanism-dependent, not observation-inevitable. Established falsification culture. |
 | **EXP-020** | Cross-domain validation. Selection reproduced in 3/4 unrelated domains under identical rules; Distributed Databases boundary failure exposed theory limits. Recurrence without universality. |
+| **EXP-021** | Assumption removal. Identical traces — World A selection (rank+budget), World B no selection. **Falsified selection as fundamental primitive.** Persistence invariant. One of most important experiments. Destroyed project's strongest competitive motif. |
 
 ---
 
@@ -22,7 +23,7 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 | **EXP-008** | Contradiction pressure as evolution driver — naturalistic speciation without diversity-only thresholds. |
 | **EXP-012** | Constructive proof: questions emerge from tension pipeline without primitive Question objects. |
 | **EXP-015** | Identity survives object deletion via ecosystem traces — deepest memory result to date. |
-| **EXP-017** | Memory competition under budget — latent memory exceeds active expression; selection gates resurrection. |
+| **EXP-017** | Memory competition under budget — **selection now qualified (EXP-021): assumption-imposed, not emergent.** Latent memory exceeds active expression when rank+budget applied. |
 
 ---
 
@@ -54,7 +55,7 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 
 ## Not Ranked Lower Deliberately
 
-All EXP-001–020 contributed. EXP-018 and EXP-019 rank **S** as consecutive memory-layer falsifications. EXP-020 ranks **S++** for cross-domain validation with boundary discovery.
+All EXP-001–021 contributed. EXP-021 ranks **S++** with EXP-010, EXP-011, EXP-020 — assumption removal falsified selection as primitive.
 
 ---
 
@@ -71,8 +72,8 @@ A    → Necessary construction or extension; less surprising alone
 
 ## If Reading One Experiment Per Tier
 
-- **S++:** EXP-011 or **EXP-020**
-- **S+:** EXP-017
+- **S++:** EXP-011 or **EXP-021** (assumption removal)
+- **S+:** EXP-015 (persistence) or EXP-017 (qualified selection)
 - **S:** EXP-018 (negative — read with EXP-017)
 - **S:** EXP-019 (negative — read with EXP-002)
 - **A:** EXP-002

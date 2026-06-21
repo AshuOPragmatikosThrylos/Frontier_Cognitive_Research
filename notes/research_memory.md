@@ -2,13 +2,13 @@
 
 **Purpose:** Paste or attach at start of a new session. Compact state of Frontier Cognitive Research / QCI program.
 
-**Last updated:** 2026-06-22 (post EXP-020 — cross-domain partial success + boundary failure)
+**Last updated:** 2026-06-22 (post EXP-021 — selection falsified; persistence elevated)
 
 ---
 
 ## One-Sentence State
 
-Difference-first stack with ecosystem memory; **competition works cross-domain** (EXP-017, EXP-020); **cooperation/merging failed** (EXP-018, EXP-019); **selection is partially domain-independent** — 3/4 domains reproduce, Distributed Databases exposes boundary (H164 partial, H168).
+Difference-first stack; **persistence is fundamental** (EXP-015–016, EXP-021); **selection was assumption-imposed** (EXP-017/020 reproduced only with rank+budget; EXP-021 World B falsified); cooperation/merging failed (EXP-018–019).
 
 ---
 
@@ -16,8 +16,8 @@ Difference-first stack with ecosystem memory; **competition works cross-domain**
 
 ```
 02_Question_Centric_Intelligence/
-├── experiments/exp001–exp020.py
-├── results/exp001–exp020 documented
+├── experiments/exp001–exp021.py
+├── results/exp001–exp021 documented
 └── src/ (EXP-001–011 only)
 notes/ ← MEMORY LAYER
 ```
@@ -26,28 +26,27 @@ notes/ ← MEMORY LAYER
 
 ## Current Phase
 
-**Phase VII: Cross-domain validation — selection partially generalizes** (EXP-020)
+**Phase VIII: Assumption removal — selection demoted, persistence elevated** (EXP-021)
 
 | EXP | Result |
 |-----|--------|
-| 015–016 | Trace memory, forgetting |
-| 017 | **Competition** — supported |
-| 018–019 | Cooperation, merging — **negative** |
-| **020** | **Cross-domain** — 3/4 selection; DB boundary failure |
+| 017–020 | Selection (now **qualified** — assumption-imposed) |
+| 018–019 | Cooperation, merging — negative |
+| **021** | **Assumption removal** — selection vanishes; persistence survives |
 
 ---
 
 ## Current Direction
 
-1. Selection reproduces in Animals, Software Bugs, Scientific Theories — **not** Distributed Databases.
-2. Next: **preconditions for selection** (H168), **remove ranking assumptions**, domain boundary mapping.
-3. Do not claim universality — cross-domain recurrence ≠ domain-independence (H164 partial).
+1. **Do not treat selection as fundamental** — rank/budget/strength ordering required (H176).
+2. **Investigate persistence** — traces stable across assumption change (H177).
+3. Next: natural disappearance, assumption-free asymmetries, persistence under attack.
 
 ---
 
 ## Narrative (30 seconds)
 
-Difference-first (011–012). Memory + competition (015–017). Cooperation/merging falsified (018–019). **EXP-020:** same rules, four domains — selection in 3/4; CAP domain failed. Recurrence without universality.
+Memory traces persist (015). Competition/select under budget (017) **cross-domain (020)** — then **EXP-021 removed assumptions: selection gone, traces remain**. Selection was exported mechanism, not emergent law.
 
 ---
 
@@ -55,10 +54,12 @@ Difference-first (011–012). Memory + competition (015–017). Cooperation/merg
 
 | Tier | Experiments |
 |------|-------------|
-| **S++** | EXP-010, EXP-011, **EXP-020** |
-| **S+** | EXP-003, EXP-008, EXP-012, EXP-015, EXP-017 |
-| **S** | EXP-004, 009, 013, 014, 018, 019 (negatives) |
+| **S++** | EXP-010, EXP-011, EXP-020, **EXP-021** |
+| **S+** | EXP-003, 008, 012, 015, 017 (selection now qualified) |
+| **S** | EXP-004, 009, 013, 014, 018, 019 |
 | **A** | EXP-001, 002, 005–007, 016 |
+
+**EXP-021 = one of most important experiments** — destroyed selection motif.
 
 ---
 
@@ -66,58 +67,62 @@ Difference-first (011–012). Memory + competition (015–017). Cooperation/merg
 
 | | % |
 |--|---|
-| Interesting Framework | 84 |
-| Useful Framework | 58 |
-| Preprint-worthy Narrative | 48 |
-| New Cognitive Principles | 52 |
-| **Cross-domain Potential** | **55** ↑↑ |
-| Fundamental Breakthrough | 10 |
-| **Dead-end Risk** | **16** ↓ |
+| Interesting Framework | 88 |
+| Useful Framework | 62 |
+| Preprint-worthy Narrative | 52 |
+| New Cognitive Principles | 48 |
+| **Selection as Fundamental** | **22** ↓↓ |
+| **Persistence as Fundamental** | **68** ↑↑ |
+| Cross-domain Potential | 50 |
+| Fundamental Breakthrough | 11 |
+| **Dead-end Risk** | **18** |
 
 ---
 
-## Key Hypotheses (H164–H170)
+## Key Hypotheses (H171–H177)
 
 | ID | Claim | Status |
 |----|-------|--------|
-| H164 | Selection domain-independent | **Partial** — 3/4 domains |
-| H165 | Competition reproduces across domains | Supported |
-| H166 | Similar motifs in unrelated worlds | Supported |
-| H167 | Cross-domain > single-domain evidence | Supported |
-| H168 | Selection requires preconditions | New |
-| H169 | Absence of selection is informative | New |
-| H170 | General theories should predict failures | New |
+| H171 | Selection without explicit ranking | **Not supported** |
+| H172 | Selection emerges from interaction | **Not supported** |
+| H173 | Selection survives assumption removal | **Not supported** |
+| H174 | Removing mechanisms reveals deeper ones | Supported |
+| H175 | Selection is not fundamental | Supported |
+| H176 | Prior selection was externally imposed | Supported |
+| H177 | Persistence > selection | Supported |
 
-Full H1–H170: `notes/major_hypotheses.md`
+Full H1–H177: `notes/major_hypotheses.md`
 
 ---
 
 ## Critical Contrasts
 
-| | 3 domains | Distributed Databases |
-|--|-----------|----------------------|
-| Selection | **Reproduced** | **Failed** |
-| Implication | H165–H167 | H168 boundary |
-
-| | EXP-017 | EXP-020 |
+| | World A | World B |
 |--|---------|---------|
-| Scope | 1 biological world | 4 domains |
-| Outcome | Bird wins | Partial generalization |
+| Assumptions | rank+budget+strength | none |
+| Live questions | 1 | 3 |
+| Selection | **Yes** | **No** |
+| Traces | 3 stable | 3 stable |
+
+| | Before EXP-021 | After EXP-021 |
+|--|----------------|---------------|
+| Selection | Strong motif | Assumption-imposed |
+| Persistence | Supporting | **Fundamental** |
 
 ---
 
 ## Open Questions (top 3)
 
-1. What preconditions enable selection (H168)?
-2. Can selection emerge without imposed ranking/budget?
-3. Which domain structures predict CAP-class failures?
+1. Can any asymmetry emerge without rank/budget?
+2. Does persistence survive forgetting / further assumption stripping?
+3. What replaces selection in the memory-layer story?
 
 ---
 
 ## Git
 
-- Latest impl: QCI-031 (EXP-020)
-- Results docs: created post-completion (user request)
+- Latest impl: QCI-032 (EXP-021)
+- Results docs: pending user commit request
 
 ---
 
@@ -130,12 +135,12 @@ Full H1–H170: `notes/major_hypotheses.md`
 
 ## Active Tensions
 
-1. **Recurrence vs universality** — EXP-020 resolved partially in favor of recurrence.
-2. **Exported mechanism vs emergent selection** — skeptic's objection still open.
-3. **Question merge vs memory resistance** — H163 unchanged.
+1. **Selection demoted** — EXP-021 falsified as primitive; EXP-017/020 results stand but reinterpreted.
+2. **Persistence elevated** — archival identity survives assumption removal.
+3. **Strongest motif destroyed** — programmatic health via self-falsification.
 
 ---
 
 ## Kill Criteria
 
-Single-world risk **reduced** (EXP-020). Watch for assumption-export without boundary prediction. See `notes/kill_criteria.md`.
+Selection-as-fundamental **falsified**. Persistence remains. See `notes/kill_criteria.md`.

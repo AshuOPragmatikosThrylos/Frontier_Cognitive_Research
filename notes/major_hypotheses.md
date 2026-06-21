@@ -1,4 +1,4 @@
-# Major Hypotheses (H1–H170)
+# Major Hypotheses (H1–H177)
 
 Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rejected**
 
@@ -300,17 +300,30 @@ Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rej
 
 ---
 
-## Summary Counts (H1–H170)
+## EXP-021 — Assumption Removal (selection falsified)
+
+| ID | Statement | Status | Experiment |
+|----|-----------|--------|------------|
+| H171 | Selection does not require explicit ranking | **Not supported** | EXP-021 |
+| H172 | Selection emerges from interaction | **Not supported** | EXP-021 |
+| H173 | Selection survives assumption removal | **Not supported** | EXP-021 |
+| H174 | Removing mechanisms reveals deeper mechanisms | Supported | EXP-021 |
+| H175 | Selection is not fundamental | Supported | EXP-021 |
+| H176 | Selection in previous experiments was externally imposed | Supported | EXP-021 |
+| H177 | Persistence is more fundamental than selection | Supported | EXP-021 |
+
+---
+
+## Summary Counts (H1–H177)
 
 | Status | Count (approx.) |
 |--------|-----------------|
-| Supported | ~115 |
+| Supported | ~119 |
 | Strengthened | ~17 |
 | Partial | 1 (H164) |
 | Weak | ~12 |
 | Unresolved | ~10 |
-| Not supported | 8 (H150–H153, H156–H159) |
-| New (untested) | 3 (H168–H170) |
+| Not supported | 11 (H150–H153, H156–H159, **H171–H173**) |
 | Rejected | 0 explicit |
 
-*H164: selection in Animals, Software Bugs, Scientific Theories; failed in Distributed Databases.*
+*EXP-021: selection falsified as fundamental; persistence elevated. H164–H170 selection preconditions claims qualified by H176.*

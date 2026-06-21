@@ -1,6 +1,6 @@
 # Timeline of Discoveries
 
-EXP-001 through EXP-020. Concise record for memory recovery.
+EXP-001 through EXP-021. Concise record for memory recovery.
 
 ---
 
@@ -204,6 +204,16 @@ EXP-001 through EXP-020. Concise record for memory recovery.
 
 ---
 
+## EXP-021 — Assumption Removal
+
+**Theme:** Attack selection by removing assumptions  
+**Main result:** World A selection (Bird wins); **World B no selection** (all 3 live); traces stable both worlds  
+**Surprise:** Selection vanished completely — project's strongest motif destroyed; persistence survived  
+**New hypotheses:** H171–H173 not supported; H174–H177 supported  
+**Importance:** **S++** — one of most important experiments; selection falsified as fundamental
+
+---
+
 ## Chronological Arc (one line)
 
-Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → resurrection → trace memory → forgetting → competition → failed cooperation → failed merging → **cross-domain partial success + boundary failure**.
+Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → resurrection → trace memory → forgetting → competition → failed cooperation → failed merging → cross-domain partial success → **assumption removal / selection demoted**.

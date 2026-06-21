@@ -6,17 +6,19 @@ Scale: **0–100%** (subjective, based on toy experiments and discussion coheren
 
 ---
 
-## Current Estimates (post EXP-020)
+## Current Estimates (post EXP-021)
 
 | Framework | Confidence | Notes |
 |-----------|------------|-------|
-| **Interesting Framework** | 84% | Cross-domain partial success + informative boundary failure |
-| **Useful Framework** | 58% | Preconditions (H168) and boundary mapping are actionable |
-| **Preprint-worthy Narrative** | 48% | Recurrence + failure in one domain strengthens honesty |
-| **New Cognitive Principles** | 52% | Selection preconditions; absence-as-evidence (H169) |
-| **Cross-domain Potential** | 55% | **Significant increase** — 3/4 domains reproduce EXP-017 motif |
-| **Fundamental Breakthrough** | 10% | Slight rise — boundary discovery, not claim of universality |
-| **Dead-end Risk** | 16% | **Reduced** — left single-world template; partial generalization |
+| **Interesting Framework** | 88% | Assumption removal falsified headline motif — high scientific value |
+| **Useful Framework** | 62% | Persistence as design primitive; selection as optional filter |
+| **Preprint-worthy Narrative** | 52% | "Built selection, then demolished it" — strong honesty arc |
+| **New Cognitive Principles** | 48% | Net flat — selection down, persistence up |
+| **Selection as Fundamental Principle** | 22% | **Sharply reduced** — EXP-021 World B falsification |
+| **Persistence as Fundamental Principle** | 68% | **Increased** — invariant across assumption removal |
+| **Cross-domain Potential** | 50% | Selection cross-domain claims weakened (same exported assumptions) |
+| **Fundamental Breakthrough** | 11% | Modest rise — destructive test reveals deeper layer |
+| **Dead-end Risk** | 18% | Slight rise — motif lost; offset by self-falsification culture |
 
 ---
 
@@ -28,31 +30,43 @@ Scale: **0–100%** (subjective, based on toy experiments and discussion coheren
 | EXP-011 (minimal worlds) | 72 | 46 | 25 | 48 | 25 | 7 | 22 |
 | EXP-015 (memory) | 76 | 50 | 32 | 48 | 30 | 8 | 18 |
 | EXP-017 (competition) | 78 | 53 | 39 | 46 | 35 | 8 | 24 |
-| EXP-018 (cooperation −) | 79 | 54 | 41 | 47 | 36 | 8 | 22 |
-| EXP-019 (merging −) | 80 | 55 | 43 | 48 | 36 | 8 | 20 |
-| **EXP-020 (cross-domain)** | **84** | **58** | **48** | **52** | **55** | **10** | **16** |
+| EXP-020 (cross-domain) | 84 | 58 | 48 | 52 | 55 | 10 | 16 |
+| **EXP-021 (assumption −)** | **88** | **62** | **52** | **48** | **50** | **11** | **18** |
 
-*EXP-020: cross-domain recurrence in 3/4 domains; Distributed Databases boundary failure; cross-domain potential +19 points.*
+*EXP-021: selection demoted (22%); persistence elevated (68%); cross-domain potential −5 as selection claims weaken.*
 
 ---
 
 ## What Moved Confidence Up
 
-- **EXP-020 (partial success):** Selection reproduces in Animals, Software Bugs, Scientific Theories (H165–H167).
-- **Informative failure:** Distributed Databases boundary — absence of selection increases scientific value (H169).
-- **Single-world risk reduced:** Four domains tested under identical rules.
-- **Tier S++ designation:** Cross-domain validation with documented limits.
+- **EXP-021 falsification:** Removing assumptions more informative than adding mechanisms (H174).
+- **Persistence invariant:** Traces stable both worlds — stronger primitive (H177).
+- **Self-critical program:** Destroying strongest motif increases narrative credibility.
+- **Tier S++ result:** One of most important experiments in arc.
 
 ## What Moved Confidence Down or Held It Back
 
-- **Non-universality:** H164 only partially supported — selection not domain-independent.
-- **Exported mechanism:** Same sort/budget/max() in every world — skeptic's objection valid.
-- **CAP domain failure:** Behavior-diff template has visible boundaries.
+- **Selection demoted:** EXP-017/020 selection reinterpreted as assumption-imposed (H176).
+- **Cross-domain selection weakened:** Same rank/budget exported — not deep recurrence.
+- **No replacement primitive:** Persistence survives; selection replacement unknown.
+- **Dead-end risk slight rise:** Core competitive story lost.
 
 ---
 
 ## Interpretation Guardrails
 
-- **Partial cross-domain success > fourth biological rerun** — but not proof of universality.
-- **H164 partial:** Claim selection in some domains, not all; predict failures (H170).
-- **Cross-domain Potential** rose sharply; **Breakthrough** rose modestly — recurrence ≠ revolution.
+- **Selection confidence (22%)** ≠ useless — imposed filter may still be engineering-relevant.
+- **Persistence confidence (68%)** — archival identity, tension-linked traces, survival across assumption change.
+- **Do not cite EXP-017/020 as proof of emergent selection** without noting EXP-021 qualification.
+- **Assumption removal > mechanism stacking** — EXP-021 vs EXP-018–019 contrast.
+
+---
+
+## Principle-Level Shift (EXP-021)
+
+| Principle | Pre-EXP-021 | Post-EXP-021 |
+|-----------|-------------|--------------|
+| Selection | ~45% (implicit in Principles) | **22%** |
+| Persistence | ~50% (implicit) | **68%** |
+
+Memory-layer story pivot: **archive and persist first; select only if assumptions imported.**
