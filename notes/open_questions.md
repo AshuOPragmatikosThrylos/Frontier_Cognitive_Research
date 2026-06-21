@@ -1,20 +1,20 @@
 # Open Questions
 
-Research-facing unknowns as of EXP-018. Not implementation tasks.
+Research-facing unknowns as of EXP-019. Not implementation tasks.
 
 ---
 
 ## Most Important Unresolved Questions
 
-1. **What is the primitive operation?** Difference detection (EXP-011 D) vs tension management vs question competition — which is necessary and sufficient for *useful* cognition beyond Bird partitioning?
+1. **Why do questions merge but memories resist?** H163 supported — what structural coupling does EXP-002 use that EXP-019 lacked?
 
-2. **Can difference-first scale?** Three categories (Bird/Mammal/Insect) share the same behavior-diff template. Does the stack generalize to structurally different observation types?
+2. **What coupling enables memory abstraction?** Co-activation failed; shared tensions, dependencies, or similarity keys untested.
 
-3. **What is the right unit of memory?** Traces (EXP-015), competition winners (EXP-017), or groups/tensions (EXP-013)? Layered or competing?
+3. **Is the memory layer at conservative equilibrium?** Competition works (017); cooperation (018) and merging (019) failed under simple rules.
 
-4. **What are coalition prerequisites?** EXP-018 falsified simple cooperation — what trace density, affinity rules, and budget structures are needed for cooperation to matter?
+4. **Can difference-first scale** beyond behavior-diff template?
 
-5. **Is any of this computationally advantageous?** No comparison to baseline agents, RL, or standard memory architectures.
+5. **Is any of this computationally advantageous?** No baseline comparison yet.
 
 ---
 
@@ -22,61 +22,58 @@ Research-facing unknowns as of EXP-018. Not implementation tasks.
 
 | Assumption | Risk |
 |------------|------|
-| Bird/Mammal/Insect template represents general cognition | Overfitting narrative to behavior-diff scenarios |
-| Every memory extension adds new behavior | EXP-018 showed otherwise — stacking may redundant |
-| Hand-tuned thresholds (budget=1, strength/4) are meaningful | Constants may drive outcomes |
-| Cooperation will emerge from more rules | May need qualitatively different architecture |
-| Negative results generalize | EXP-018 may be artifact of weak coalition rule, not impossibility of cooperation |
+| Question dynamics transfer to memory layer | Falsified by EXP-018, EXP-019 |
+| More memory mechanisms → new behavior | Two consecutive negatives |
+| Co-activation equals meaningful coupling | EXP-019 falsified |
+| Identity negotiable at trace layer | H161 — identity highly stable |
+| Bird/Mammal/Insect template generalizes | Structural overfitting |
 
 ---
 
 ## Most Promising Directions
 
-1. **Coalition prerequisites study** — larger trace populations, adaptive cooperation, separate budget pools.
-2. **Second domain** with structurally different observations — not just more behavior-diff categories.
-3. **Threshold sensitivity audit** — ±20% on budget, strength divisor, coalition threshold.
-4. **Adaptive reconstruction budgets** — suggested by EXP-017/018 future directions.
-5. **Bridge to 03_Compression_Failure_Engine** — unify compression failure with difference-first stack.
+1. **Shared-tension merge** — traces linked to same tension as merge prerequisite.
+2. **EXP-002 similarity port** — apply question merge key to trace layer.
+3. **Dependency-driven merging** — structural not temporal coupling.
+4. **Second domain** — non-behavior-diff observations.
+5. **Threshold sensitivity audit** — do 017–019 conclusions survive perturbation?
 
 ---
 
 ## Questions That Could Destroy the Theory
 
-1. **Does World D + memory + competition reproduce all interesting behavior without questions?** If yes, question layer may be decorative.
+1. **Memory layer adds nothing beyond archive + competition** — 018–019 failures suggest diminishing returns.
 
-2. **Does a simpler single-mechanism model match all EXP-001–018 outcomes?** Ecology adds no explanatory power.
+2. **World D + traces + competition explains everything** — questions and merge/cooperation decorative.
 
-3. **Do results change materially with threshold perturbation?** EXP-017/018 conclusions may be artifact.
+3. **All memory extensions fail under simple rules** — only selection survives; ecology narrative overbuilt.
 
-4. **Does external replication fail?** Independent implementer gets different arc.
-
-5. **Does every new EXP-018-style extension fail?** Would suggest diminishing returns on memory layer.
+4. **External replication diverges** on negative results.
 
 ---
 
 ## Questions That Could Strengthen the Theory
 
-1. **New domain** shows difference → tension → trace → competition cycle without retuning.
+1. **Shared-tension merge succeeds** where co-activation failed — defines coupling precisely.
 
-2. **Richer cooperation succeeds** where EXP-018 failed — defines prerequisites precisely.
+2. **H163 formalized** — explicit two-layer architecture (questions vs memories) with different rules.
 
-3. **EXP-018-style negative results continue** — program demonstrates ongoing falsifiability.
+3. **Third falsification attempt** with pre-registered prediction — continues resistance culture.
 
-4. **Mapping to cognitive science** — selection ≈ retrieval competition; traces ≈ semantic memory.
-
-5. **Minimal formal proof** that budget + strength ranking produces selection without cooperation.
+4. **EXP-002 vs EXP-019 in same paper** — layer asymmetry as contribution.
 
 ---
 
-## Resolved or Partially Resolved (since last update)
+## Resolved or Partially Resolved (since EXP-018)
 
-- **Forgetting vs loss (EXP-016/017):** Distinct — forgetting removes/weaken traces; competition loss retains traces without expression.
-- **Cooperation with simple rules (EXP-018):** **Not supported** — requires richer mechanisms (H155).
-- **Selection robustness (EXP-017/018):** EXP-018 failed to overturn EXP-017 — selection confirmed.
+- **Cooperation (EXP-018):** Not supported under simple rules (H150–H153).
+- **Memory merge via co-activation (EXP-019):** Not supported (H156–H159).
+- **Identity stability (EXP-019):** Supported — traces resist dissolution (H161).
+- **Question vs memory laws (EXP-019):** Different — merge at question layer only (H163).
 
 ---
 
-## Carried Forward from Early Notes
+## Carried Forward
 
-- Can a system defined by unresolved questions outperform one defined by answers? (Q1 — still open)
-- Can compression failures lead to scientific discovery? (Q5 — analogically supported, not demonstrated)
+- Coalition prerequisites (from EXP-018) — still open if cooperation revisited.
+- Primitive operation question (difference vs tension) — unchanged.

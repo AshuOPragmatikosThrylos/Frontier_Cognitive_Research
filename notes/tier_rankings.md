@@ -34,6 +34,7 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 | **EXP-013** | Questions episodic; organization persists at zero live questions. |
 | **EXP-014** | Resurrection with identity on same object — contrasts cleanly with EXP-015. |
 | **EXP-018** | **Valuable negative result** — cooperation falsified; EXP-017 selection reinforced. Program resistance. |
+| **EXP-019** | **Valuable negative result** — merging falsified; identity stable; contrasts EXP-002 (H163). |
 
 ---
 
@@ -52,7 +53,7 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 
 ## Not Ranked Lower Deliberately
 
-All EXP-001–018 contributed. EXP-018 ranks **S** (not lower) because negative results that falsify extensions are as valuable as EXP-010 — it strengthens EXP-017 rather than wasting a slot.
+All EXP-001–019 contributed. EXP-018 and EXP-019 rank **S** as consecutive memory-layer falsifications.
 
 ---
 
@@ -72,6 +73,7 @@ A    → Necessary construction or extension; less surprising alone
 - **S++:** EXP-011
 - **S+:** EXP-017
 - **S:** EXP-018 (negative — read with EXP-017)
+- **S:** EXP-019 (negative — read with EXP-002)
 - **A:** EXP-002
 
 Four files recover ~85% of the intellectual arc.

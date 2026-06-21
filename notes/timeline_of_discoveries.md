@@ -174,16 +174,16 @@ EXP-001 through EXP-016. Concise record for memory recovery.
 
 ---
 
-## EXP-018 — Memory Cooperation (negative)
+## EXP-019 — Memory Trace Merging (negative)
 
-**Theme:** Weak traces form coalitions; compete with individuals  
-**Main result:** **No coalitions formed.** Bird won solo — same as EXP-017  
-**Surprise:** Negative result **strengthened** EXP-017 confidence  
-**New hypotheses:** H150–H155 (H150–H153 not supported)  
-**Importance:** S — valuable falsification; program resistance
+**Theme:** Co-activation → intended trace merge  
+**Main result:** **No merges.** Three individual traces; stable identities  
+**Surprise:** EXP-002 question merge did not transfer to memory layer (H163)  
+**New hypotheses:** H156–H163 (H156–H159 not supported; H160–H163 supported/introduced)  
+**Importance:** S — valuable falsification; identity resistance
 
 ---
 
 ## Chronological Arc (one line)
 
-Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → resurrection → trace memory → forgetting → **competition → failed cooperation**.
+Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → resurrection → trace memory → forgetting → competition → failed cooperation → **failed merging**.

@@ -30,8 +30,9 @@ EXP-012 through EXP-018 **descended the stack** without importing `src/`:
 - Perfect vs selective forgetting (EXP-016)
 - Memory trace competition under budget (EXP-017)
 - Memory cooperation attempt — **negative result** (EXP-018)
+- Memory trace merging attempt — **negative result** (EXP-019)
 
-The arc: **questions-first → ecology → evolution → falsification → minimal worlds → difference-first → memory, competition, and failed cooperation**.
+The arc: **questions-first → ecology → evolution → falsification → minimal worlds → difference-first → memory, competition, failed cooperation, failed merging**.
 
 ---
 
@@ -44,7 +45,7 @@ The arc: **questions-first → ecology → evolution → falsification → minim
 | **III. Scarcity** | EXP-005–006 | Attention economy, community competition |
 | **IV. Evolution** | EXP-007–009 | Speciation, contradiction pressure, tolerance |
 | **V. Falsification** | EXP-010–011 | Random controls, minimal worlds |
-| **VI. Difference-first** | EXP-012–018 | Tensions, lifecycles, memory, competition, cooperation (failed) |
+| **VI. Difference-first** | EXP-012–019 | Tensions, lifecycles, memory, competition, cooperation/merging (failed) |
 
 ---
 
@@ -54,9 +55,9 @@ The arc: **questions-first → ecology → evolution → falsification → minim
 2. **Comparison era (EXP-010+):** Control worlds ask *which* mechanisms matter.
 3. **Reduction era (EXP-011):** Strip mechanisms until organization survives or dies.
 4. **Reconstruction era (EXP-012–018):** Rebuild upward from differences, treating questions as transient phases and memory as ecosystem property.
-5. **Resistance era (EXP-018):** First documented negative result in memory layer — cooperation falsified, selection reinforced.
+5. **Resistance era (EXP-018–019):** Documented negative results — cooperation and merging falsified at memory layer.
 
-Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–018 use self-contained experiment files with local dataclasses.
+Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–019 use self-contained experiment files with local dataclasses.
 
 ---
 
@@ -72,7 +73,8 @@ Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–018 us
 8. **Organization outlives questions (EXP-013).** At extinction: groups and tensions persist; zero live questions.
 9. **Identity without objects (EXP-015).** Question deleted; trace retains id and history; reconstruction continues narrative.
 10. **Dict iteration bug (EXP-016).** `clutter_count()` iterated keys not values — type error, not corruption of memory model.
-11. **Cooperation failed (EXP-018).** No coalitions formed; Bird won solo — EXP-017 selection reproduced; valuable negative result.
+11. **Cooperation failed (EXP-018).** No coalitions formed; Bird won solo — EXP-017 selection reproduced.
+12. **Merging failed (EXP-019).** Repeated co-activation; no abstractions — memory identity resistant; contrasts EXP-002 question merge.
 
 ---
 
@@ -87,6 +89,8 @@ Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–018 us
 - **Forgetting** (EXP-016): selective decay prunes unused traces; core traces may survive at reduced strength.
 - **Competition** (EXP-017): trace strength + budget determines who reconstructs; latent memory exceeds active expression.
 - **Cooperation** (EXP-018): **not demonstrated** — simple coalition rules insufficient; selection robust without alliances.
+- **Merging** (EXP-019): **not demonstrated** — co-activation insufficient; trace identity highly stable (H161).
+- **Questions ≠ memories** (H163): question merge works (EXP-002); memory merge does not under co-activation alone.
 
 ---
 
@@ -100,6 +104,8 @@ Intelligence in this program is modeled as **ecological difference management un
 - **Communities** evolve via pressure, tolerance, and speciation when contradictions exceed capacity.
 - **Attention** allocates scarce processing; **memory** persists separately.
 - **Traces** outlive question instances; **forgetting** prunes clutter; **competition** selects expression under scarcity.
-- **Cooperation** requires richer mechanisms than tested — EXP-018 falsified simple alliance rules.
+- **Cooperation** requires richer mechanisms than tested (EXP-018).
+- **Merging** requires stronger coupling than co-activation (EXP-019).
+- **Questions and memories obey different rules** (H163) — merge at question layer (EXP-002), resistance at trace layer.
 
-We do **not** claim this is how real minds work. We claim the toy ecosystem produces coherent, falsifiable dynamics — including **negative results** (EXP-018) — that challenge answer-centric and question-primitive assumptions. The stack points toward **tension-and-memory-first** models with **selection** as a gate on resurrection; cooperation remains an open problem.
+We do **not** claim this is how real minds work. We claim the toy ecosystem produces coherent, falsifiable dynamics — including **negative results** (EXP-018, EXP-019) — that challenge answer-centric and question-primitive assumptions. The memory layer is **conservative**: traces preserve identity; selection gates expression; simple cooperation and merging fail.

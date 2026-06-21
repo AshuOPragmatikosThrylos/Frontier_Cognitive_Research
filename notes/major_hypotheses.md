@@ -271,15 +271,30 @@ Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rej
 
 ---
 
-## Summary Counts (H1–H155)
+## EXP-019 — Memory Trace Merging (negative result)
+
+| ID | Statement | Status | Experiment |
+|----|-----------|--------|------------|
+| H156 | Memory traces can merge | **Not supported** | EXP-019 |
+| H157 | Identity is negotiable | **Not supported** | EXP-019 |
+| H158 | Repeated coexistence promotes abstraction | **Not supported** | EXP-019 |
+| H159 | Abstractions inherit memory | **Not supported** | EXP-019 (untested — no abstractions) |
+| H160 | Co-activation is weaker than coexistence | Supported | EXP-019 |
+| H161 | Identity is more stable than expected | Supported | EXP-019 |
+| H162 | Abstraction requires stronger coupling than temporal proximity | Supported | EXP-019 |
+| H163 | Questions and memories obey different evolutionary laws | Supported | EXP-019 vs EXP-002 |
+
+---
+
+## Summary Counts (H1–H163)
 
 | Status | Count (approx.) |
 |--------|-----------------|
-| Supported | ~108 |
+| Supported | ~111 |
 | Strengthened | ~17 |
-| Weak | ~10 |
-| Unresolved | ~12 |
-| Not supported | 4 (H150–H153) |
+| Weak | ~12 |
+| Unresolved | ~10 |
+| Not supported | 8 (H150–H153, H156–H159) |
 | Rejected | 0 explicit |
 
-*H2 and H15 weakened but not rejected. H150–H153 explicitly not supported by EXP-018 negative result.*
+*H163: question merge (EXP-002) vs memory merge failure (EXP-019) — layer-specific rules.*
