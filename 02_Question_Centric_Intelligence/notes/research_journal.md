@@ -95,3 +95,18 @@ New hypotheses:
 Main idea:
 
 Questions form graphs and ecosystems rather than isolated entities. They support, contradict, depend on, and generalize one another. Cooperation and fitness propagation complement competition; communities cluster around shared domains of inquiry.
+
+## Discussion 007
+
+Theme: Question Reproduction and Mutation
+
+New hypotheses:
+
+- H20: Questions can reproduce.
+- H21: Questions reproduce through specialization.
+- H22: Question mutation is a source of creativity.
+- H23: Question species emerge over time.
+
+Main idea:
+
+Questions evolve through reproduction and mutation, producing lineages similar to biological evolution. Specialization extends families; mutation explores new directions; species emerge from sustained lineages within domains.
