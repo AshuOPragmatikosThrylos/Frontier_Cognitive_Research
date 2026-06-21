@@ -65,3 +65,18 @@ New hypotheses:
 Main idea:
 
 Questions behave like living entities and may evolve over time. They split, merge, spawn children, go dormant, and die. Lineage and fitness shape which questions persist and which fade.
+
+## Discussion 005
+
+Theme: Question Ecology and Attention
+
+New hypotheses:
+
+- H12: Attention emerges from question competition.
+- H13: Scarcity of attention is necessary.
+- H14: Dormant questions can revive.
+- H15: Intelligence is an ecosystem of competing questions.
+
+Main idea:
+
+Attention may be an emergent property of competing unresolved questions. Finite resources force tradeoffs; starvation and dormancy are natural outcomes; revival remains possible when pressure returns.
