@@ -1,4 +1,4 @@
-# Major Hypotheses (H1–H132)
+# Major Hypotheses (H1–H170)
 
 Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rejected**
 
@@ -286,15 +286,31 @@ Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rej
 
 ---
 
-## Summary Counts (H1–H163)
+## EXP-020 — Cross-Domain Reproduction
+
+| ID | Statement | Status | Experiment |
+|----|-----------|--------|------------|
+| H164 | Selection is domain-independent | **Partial** | EXP-020 — 3/4 domains |
+| H165 | Memory competition reproduces across domains | Supported | EXP-020 |
+| H166 | Differences generate similar motifs in unrelated worlds | Supported | EXP-020 |
+| H167 | Cross-domain recurrence is stronger evidence than additional single-domain experiments | Supported | EXP-020 |
+| H168 | Selection requires preconditions | New | EXP-020 (Distributed Databases failure) |
+| H169 | Absence of selection is informative | New | EXP-020 |
+| H170 | General theories should predict failures | New | EXP-020 |
+
+---
+
+## Summary Counts (H1–H170)
 
 | Status | Count (approx.) |
 |--------|-----------------|
-| Supported | ~111 |
+| Supported | ~115 |
 | Strengthened | ~17 |
+| Partial | 1 (H164) |
 | Weak | ~12 |
 | Unresolved | ~10 |
 | Not supported | 8 (H150–H153, H156–H159) |
+| New (untested) | 3 (H168–H170) |
 | Rejected | 0 explicit |
 
-*H163: question merge (EXP-002) vs memory merge failure (EXP-019) — layer-specific rules.*
+*H164: selection in Animals, Software Bugs, Scientific Theories; failed in Distributed Databases.*

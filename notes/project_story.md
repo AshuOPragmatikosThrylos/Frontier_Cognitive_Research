@@ -22,7 +22,7 @@ EXP-010 introduced **falsification**: random control worlds produce entropy, not
 
 EXP-011 was the **inversion point**. World D (difference-only) reproduced Bird partitioning **without questions, communities, pressure, or tolerance**. The primitive operation may be **difference management**, with questions as derived compressions.
 
-EXP-012 through EXP-018 **descended the stack** without importing `src/`:
+EXP-012 through EXP-020 **descended the stack** without importing `src/`:
 - Emergent questions from persistent tensions (EXP-012)
 - Lifecycles and extinction (EXP-013)
 - Resurrection on same object (EXP-014)
@@ -31,8 +31,9 @@ EXP-012 through EXP-018 **descended the stack** without importing `src/`:
 - Memory trace competition under budget (EXP-017)
 - Memory cooperation attempt — **negative result** (EXP-018)
 - Memory trace merging attempt — **negative result** (EXP-019)
+- Cross-domain selection reproduction — **partial success** (EXP-020)
 
-The arc: **questions-first → ecology → evolution → falsification → minimal worlds → difference-first → memory, competition, failed cooperation, failed merging**.
+The arc: **questions-first → ecology → evolution → falsification → minimal worlds → difference-first → memory, competition, failed cooperation, failed merging → cross-domain validation**.
 
 ---
 
@@ -46,6 +47,7 @@ The arc: **questions-first → ecology → evolution → falsification → minim
 | **IV. Evolution** | EXP-007–009 | Speciation, contradiction pressure, tolerance |
 | **V. Falsification** | EXP-010–011 | Random controls, minimal worlds |
 | **VI. Difference-first** | EXP-012–019 | Tensions, lifecycles, memory, competition, cooperation/merging (failed) |
+| **VII. Cross-domain** | EXP-020 | Selection reproduction across four domains; boundary failure |
 
 ---
 
@@ -56,8 +58,9 @@ The arc: **questions-first → ecology → evolution → falsification → minim
 3. **Reduction era (EXP-011):** Strip mechanisms until organization survives or dies.
 4. **Reconstruction era (EXP-012–018):** Rebuild upward from differences, treating questions as transient phases and memory as ecosystem property.
 5. **Resistance era (EXP-018–019):** Documented negative results — cooperation and merging falsified at memory layer.
+6. **Cross-domain era (EXP-020):** Selection reproduced in 3/4 domains; Distributed Databases exposed theory boundary.
 
-Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–019 use self-contained experiment files with local dataclasses.
+Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–020 use self-contained experiment files with local dataclasses.
 
 ---
 
@@ -75,6 +78,7 @@ Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–019 us
 10. **Dict iteration bug (EXP-016).** `clutter_count()` iterated keys not values — type error, not corruption of memory model.
 11. **Cooperation failed (EXP-018).** No coalitions formed; Bird won solo — EXP-017 selection reproduced.
 12. **Merging failed (EXP-019).** Repeated co-activation; no abstractions — memory identity resistant; contrasts EXP-002 question merge.
+13. **Cross-domain partial success (EXP-020).** Selection in Animals, Software Bugs, Scientific Theories; failed in Distributed Databases — recurrence without universality.
 
 ---
 
@@ -91,6 +95,7 @@ Implementation style shifted: EXP-001–011 use `src/` modules; EXP-012–019 us
 - **Cooperation** (EXP-018): **not demonstrated** — simple coalition rules insufficient; selection robust without alliances.
 - **Merging** (EXP-019): **not demonstrated** — co-activation insufficient; trace identity highly stable (H161).
 - **Questions ≠ memories** (H163): question merge works (EXP-002); memory merge does not under co-activation alone.
+- **Cross-domain selection** (EXP-020): competition reproduces in 3/4 domains (H165); not universal — CAP domain failed (H164 partial, H168).
 
 ---
 
@@ -107,5 +112,6 @@ Intelligence in this program is modeled as **ecological difference management un
 - **Cooperation** requires richer mechanisms than tested (EXP-018).
 - **Merging** requires stronger coupling than co-activation (EXP-019).
 - **Questions and memories obey different rules** (H163) — merge at question layer (EXP-002), resistance at trace layer.
+- **Selection partially generalizes** (EXP-020) — reproduces across unrelated domains but requires preconditions (H168); not all domain structures support it.
 
-We do **not** claim this is how real minds work. We claim the toy ecosystem produces coherent, falsifiable dynamics — including **negative results** (EXP-018, EXP-019) — that challenge answer-centric and question-primitive assumptions. The memory layer is **conservative**: traces preserve identity; selection gates expression; simple cooperation and merging fail.
+We do **not** claim this is how real minds work. We claim the toy ecosystem produces coherent, falsifiable dynamics — including **negative results** (EXP-018, EXP-019) and **boundary results** (EXP-020) — that challenge answer-centric and question-primitive assumptions. The memory layer is **conservative**: traces preserve identity; selection gates expression; simple cooperation and merging fail; cross-domain recurrence exists but is **not universal**.

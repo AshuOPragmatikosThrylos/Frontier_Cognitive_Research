@@ -6,17 +6,17 @@ Scale: **0–100%** (subjective, based on toy experiments and discussion coheren
 
 ---
 
-## Current Estimates (post EXP-019)
+## Current Estimates (post EXP-020)
 
 | Framework | Confidence | Notes |
 |-----------|------------|-------|
-| **Interesting Framework** | 80% | Two memory-layer negative results (018, 019) deepen falsification narrative |
-| **Useful Framework** | 55% | Identity stability and layer asymmetry (H163) are actionable design constraints |
-| **Preprint-worthy Narrative** | 43% | Honest negative results + EXP-002 contrast strengthen paper honesty |
-| **New Cognitive Principles** | 48% | Selection + identity resistance supported; cooperation/merge rules immature |
-| **Cross-domain Potential** | 36% | Still behavior-diff template across categories |
-| **Fundamental Breakthrough** | 8% | Deliberately low |
-| **Dead-end Risk** | 20% | **Reduced** — consecutive falsifications (018, 019) show program resistance |
+| **Interesting Framework** | 84% | Cross-domain partial success + informative boundary failure |
+| **Useful Framework** | 58% | Preconditions (H168) and boundary mapping are actionable |
+| **Preprint-worthy Narrative** | 48% | Recurrence + failure in one domain strengthens honesty |
+| **New Cognitive Principles** | 52% | Selection preconditions; absence-as-evidence (H169) |
+| **Cross-domain Potential** | 55% | **Significant increase** — 3/4 domains reproduce EXP-017 motif |
+| **Fundamental Breakthrough** | 10% | Slight rise — boundary discovery, not claim of universality |
+| **Dead-end Risk** | 16% | **Reduced** — left single-world template; partial generalization |
 
 ---
 
@@ -30,27 +30,29 @@ Scale: **0–100%** (subjective, based on toy experiments and discussion coheren
 | EXP-017 (competition) | 78 | 53 | 39 | 46 | 35 | 8 | 24 |
 | EXP-018 (cooperation −) | 79 | 54 | 41 | 47 | 36 | 8 | 22 |
 | EXP-019 (merging −) | 80 | 55 | 43 | 48 | 36 | 8 | 20 |
+| **EXP-020 (cross-domain)** | **84** | **58** | **48** | **52** | **55** | **10** | **16** |
 
-*EXP-019: second memory-layer negative; identity stability (H161) and question/memory asymmetry (H163) add principle-level insight.*
+*EXP-020: cross-domain recurrence in 3/4 domains; Distributed Databases boundary failure; cross-domain potential +19 points.*
 
 ---
 
 ## What Moved Confidence Up
 
-- **EXP-019 (negative):** Identity resistance documented; contrasts EXP-002 cleanly.
-- **H163:** Questions and memories as distinct layers — design clarity.
-- **Consecutive falsifications:** EXP-018 + EXP-019 reduce dead-end risk.
+- **EXP-020 (partial success):** Selection reproduces in Animals, Software Bugs, Scientific Theories (H165–H167).
+- **Informative failure:** Distributed Databases boundary — absence of selection increases scientific value (H169).
+- **Single-world risk reduced:** Four domains tested under identical rules.
+- **Tier S++ designation:** Cross-domain validation with documented limits.
 
 ## What Moved Confidence Down or Held It Back
 
-- **Memory layer extensions failing:** Cooperation and merge both falsified under simple rules.
-- **Mechanism stacking without new phenomena:** 018–019 added code, not new behavior.
-- **Single structural template:** Bird/Mammal/Insect behavior-diff pattern.
+- **Non-universality:** H164 only partially supported — selection not domain-independent.
+- **Exported mechanism:** Same sort/budget/max() in every world — skeptic's objection valid.
+- **CAP domain failure:** Behavior-diff template has visible boundaries.
 
 ---
 
 ## Interpretation Guardrails
 
-- **Negative results increase Useful and decrease Dead-end** — not failures of the program.
-- **H163** is a constraint: do not assume question dynamics transfer to memory layer.
-- **Preprint-worthy** benefits from EXP-002 vs EXP-019 contrast (merge succeeds vs fails by layer).
+- **Partial cross-domain success > fourth biological rerun** — but not proof of universality.
+- **H164 partial:** Claim selection in some domains, not all; predict failures (H170).
+- **Cross-domain Potential** rose sharply; **Breakthrough** rose modestly — recurrence ≠ revolution.

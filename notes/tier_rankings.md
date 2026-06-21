@@ -10,6 +10,7 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 |-----|-----|
 | **EXP-011** | Minimal worlds. World D reproduced Bird partition without questions, communities, pressure, or tolerance. Forced difference-first reinterpretation of entire program. |
 | **EXP-010** | First rigorous control. Proved semantic organization is mechanism-dependent, not observation-inevitable. Established falsification culture. |
+| **EXP-020** | Cross-domain validation. Selection reproduced in 3/4 unrelated domains under identical rules; Distributed Databases boundary failure exposed theory limits. Recurrence without universality. |
 
 ---
 
@@ -53,7 +54,7 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 
 ## Not Ranked Lower Deliberately
 
-All EXP-001–019 contributed. EXP-018 and EXP-019 rank **S** as consecutive memory-layer falsifications.
+All EXP-001–020 contributed. EXP-018 and EXP-019 rank **S** as consecutive memory-layer falsifications. EXP-020 ranks **S++** for cross-domain validation with boundary discovery.
 
 ---
 
@@ -70,10 +71,10 @@ A    → Necessary construction or extension; less surprising alone
 
 ## If Reading One Experiment Per Tier
 
-- **S++:** EXP-011
+- **S++:** EXP-011 or **EXP-020**
 - **S+:** EXP-017
 - **S:** EXP-018 (negative — read with EXP-017)
 - **S:** EXP-019 (negative — read with EXP-002)
 - **A:** EXP-002
 
-Four files recover ~85% of the intellectual arc.
+Five files recover ~90% of the intellectual arc.

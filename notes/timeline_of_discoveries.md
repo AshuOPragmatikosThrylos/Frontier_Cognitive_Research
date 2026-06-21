@@ -1,6 +1,6 @@
 # Timeline of Discoveries
 
-EXP-001 through EXP-016. Concise record for memory recovery.
+EXP-001 through EXP-020. Concise record for memory recovery.
 
 ---
 
@@ -174,6 +174,16 @@ EXP-001 through EXP-016. Concise record for memory recovery.
 
 ---
 
+## EXP-018 — Memory Cooperation (negative)
+
+**Theme:** Coalition formation under budget  
+**Main result:** **No coalitions.** Bird won solo — EXP-017 selection reproduced  
+**Surprise:** Cooperation harder than competition  
+**New hypotheses:** H150–H155 (H150–H153 not supported)  
+**Importance:** S — valuable falsification
+
+---
+
 ## EXP-019 — Memory Trace Merging (negative)
 
 **Theme:** Co-activation → intended trace merge  
@@ -184,6 +194,16 @@ EXP-001 through EXP-016. Concise record for memory recovery.
 
 ---
 
+## EXP-020 — Cross-Domain Reproduction
+
+**Theme:** Selection reproduces across unrelated domains  
+**Main result:** Selection in Animals, Software Bugs, Scientific Theories; **failed in Distributed Databases**  
+**Surprise:** Recurrence without universality — CAP domain exposes boundary  
+**New hypotheses:** H164 (partial), H165–H167 (supported), H168–H170 (new)  
+**Importance:** **S++** — cross-domain validation with informative failure
+
+---
+
 ## Chronological Arc (one line)
 
-Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → resurrection → trace memory → forgetting → competition → failed cooperation → **failed merging**.
+Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → resurrection → trace memory → forgetting → competition → failed cooperation → failed merging → **cross-domain partial success + boundary failure**.

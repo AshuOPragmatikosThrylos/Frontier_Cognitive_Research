@@ -1,18 +1,18 @@
 # Open Questions
 
-Research-facing unknowns as of EXP-019. Not implementation tasks.
+Research-facing unknowns as of EXP-020. Not implementation tasks.
 
 ---
 
 ## Most Important Unresolved Questions
 
-1. **Why do questions merge but memories resist?** H163 supported — what structural coupling does EXP-002 use that EXP-019 lacked?
+1. **What preconditions enable selection?** H168 introduced by Distributed Databases failure — which domain structures support strength-differentiated competition?
 
-2. **What coupling enables memory abstraction?** Co-activation failed; shared tensions, dependencies, or similarity keys untested.
+2. **Can selection emerge without imposed ranking?** EXP-020 exported sort/budget/max() into every world — does spontaneous competition exist?
 
-3. **Is the memory layer at conservative equilibrium?** Competition works (017); cooperation (018) and merging (019) failed under simple rules.
+3. **Why do questions merge but memories resist?** H163 supported — what structural coupling does EXP-002 use that EXP-019 lacked?
 
-4. **Can difference-first scale** beyond behavior-diff template?
+4. **Which domain classes predict CAP-style failures?** Coupled tradeoffs vs independent behavior-diff categories.
 
 5. **Is any of this computationally advantageous?** No baseline comparison yet.
 
@@ -22,54 +22,54 @@ Research-facing unknowns as of EXP-019. Not implementation tasks.
 
 | Assumption | Risk |
 |------------|------|
+| Selection is universal | **Falsified partially** — EXP-020: 3/4 only (H164 partial) |
+| Same mechanism export guarantees reproduction | Distributed Databases counterexample |
 | Question dynamics transfer to memory layer | Falsified by EXP-018, EXP-019 |
-| More memory mechanisms → new behavior | Two consecutive negatives |
-| Co-activation equals meaningful coupling | EXP-019 falsified |
-| Identity negotiable at trace layer | H161 — identity highly stable |
-| Bird/Mammal/Insect template generalizes | Structural overfitting |
+| Behavior-diff template generalizes | CAP domain boundary visible |
+| Cross-domain success implies breakthrough | Recurrence ≠ universality |
 
 ---
 
 ## Most Promising Directions
 
-1. **Shared-tension merge** — traces linked to same tension as merge prerequisite.
-2. **EXP-002 similarity port** — apply question merge key to trace layer.
-3. **Dependency-driven merging** — structural not temporal coupling.
-4. **Second domain** — non-behavior-diff observations.
-5. **Threshold sensitivity audit** — do 017–019 conclusions survive perturbation?
+1. **Formalize selection preconditions** (H168) — predict failures before running.
+2. **Remove ranking assumptions** — study assumption-free worlds.
+3. **Domain boundary mapping** — classify observation structures.
+4. **Shared-tension merge** — traces linked to same tension as merge prerequisite.
+5. **Universal motif search** — what survives across all successful domains?
 
 ---
 
 ## Questions That Could Destroy the Theory
 
-1. **Memory layer adds nothing beyond archive + competition** — 018–019 failures suggest diminishing returns.
+1. **Selection only works where template is pre-fit** — 3/4 success may reflect observation design, not mechanism.
 
-2. **World D + traces + competition explains everything** — questions and merge/cooperation decorative.
+2. **All cross-domain failures cluster in coupled domains** — theory reduces to "behavior-diff worlds only."
 
-3. **All memory extensions fail under simple rules** — only selection survives; ecology narrative overbuilt.
+3. **Removing ranking eliminates selection everywhere** — phenomenon is entirely experimenter-imposed.
 
-4. **External replication diverges** on negative results.
+4. **World D + traces + competition explains everything** — questions and merge/cooperation decorative.
 
 ---
 
 ## Questions That Could Strengthen the Theory
 
-1. **Shared-tension merge succeeds** where co-activation failed — defines coupling precisely.
+1. **Precondition formalization predicts Distributed Databases failure** before running (H170).
 
-2. **H163 formalized** — explicit two-layer architecture (questions vs memories) with different rules.
+2. **Selection emerges without sort/budget** in at least one domain.
 
-3. **Third falsification attempt** with pre-registered prediction — continues resistance culture.
+3. **Fourth non-biological domain succeeds** where CAP failed — boundary map refined.
 
-4. **EXP-002 vs EXP-019 in same paper** — layer asymmetry as contribution.
+4. **H163 + H168 unified** — layer rules + domain preconditions as complete account.
 
 ---
 
-## Resolved or Partially Resolved (since EXP-018)
+## Resolved or Partially Resolved (since EXP-019)
 
-- **Cooperation (EXP-018):** Not supported under simple rules (H150–H153).
-- **Memory merge via co-activation (EXP-019):** Not supported (H156–H159).
-- **Identity stability (EXP-019):** Supported — traces resist dissolution (H161).
-- **Question vs memory laws (EXP-019):** Different — merge at question layer only (H163).
+- **Cross-domain selection (EXP-020):** Partially supported — 3/4 domains (H164 partial, H165–H167).
+- **Single-world risk:** Reduced — four domains tested.
+- **Universality claim:** Rejected — Distributed Databases failure.
+- **Absence as evidence (EXP-020):** H169 introduced — boundary failures informative.
 
 ---
 
@@ -77,3 +77,4 @@ Research-facing unknowns as of EXP-019. Not implementation tasks.
 
 - Coalition prerequisites (from EXP-018) — still open if cooperation revisited.
 - Primitive operation question (difference vs tension) — unchanged.
+- Exported mechanism vs emergent selection — central after EXP-020.
