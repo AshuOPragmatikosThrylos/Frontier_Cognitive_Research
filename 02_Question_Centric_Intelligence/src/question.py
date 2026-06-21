@@ -13,3 +13,6 @@ class Question:
     child_questions: list[str] = field(default_factory=list)
     times_encountered: int = 0
     related_observations: list[str] = field(default_factory=list)
+    category: str = ""
+    expected_behavior: str = ""
+    observed_behavior: str = ""

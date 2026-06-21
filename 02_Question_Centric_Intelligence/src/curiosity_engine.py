@@ -1,5 +1,4 @@
 import time
-import uuid
 
 from src.observation import Observation
 from src.question import Question
@@ -13,7 +12,6 @@ class CuriosityEngine:
     def __init__(self, repository: QuestionRepository, world_model: WorldModel) -> None:
         self.repository = repository
         self.world_model = world_model
-        self._question_keys: dict[str, str] = {}
 
     def process_prediction_failure(
         self,
@@ -25,41 +23,45 @@ class CuriosityEngine:
         observed = observed_behavior.lower()
         expected = self.world_model.predict(category)
         observation = Observation(
-            id=str(uuid.uuid4())[:8],
+            id=f"obs-{entity.lower()}-{observed.replace(' ', '-')}",
             content=content,
             timestamp=time.time(),
         )
 
         if expected and observed != expected:
-            question_key = f"{category}:{expected}"
             text = f"Why doesn't {entity} {expected}?"
+            question_id = f"q-{entity.lower()}"
+            question_category = category
+            expected_behavior = expected
+            observed_behavior = observed
         else:
             owner = self._behavior_owner(observed)
-            question_key = f"{category}:cross:{observed}"
             text = f"Why does {entity} {observed} like a {owner}?"
+            question_id = f"q-{entity.lower()}"
+            question_category = category
+            expected_behavior = ""
+            observed_behavior = observed
 
-        question_id = self._question_keys.get(question_key)
-        if question_id:
-            question = self.repository.get_question(question_id)
-            assert question is not None
-            question.times_encountered += 1
-            question.curiosity_debt += self.DEBT_INCREMENT * question.times_encountered
-            question.related_observations.append(observation.id)
-            question.state = "ACTIVE"
-            if expected and question.times_encountered >= 2:
-                question.text = f"Why don't some {category.lower()}s {expected}?"
-            return question
+        existing = self.repository.get_question(question_id)
+        if existing is not None:
+            existing.times_encountered += 1
+            existing.curiosity_debt += self.DEBT_INCREMENT * existing.times_encountered
+            existing.related_observations.append(observation.id)
+            existing.state = "ACTIVE"
+            return existing
 
         question = Question(
-            id=str(uuid.uuid4())[:8],
+            id=question_id,
             text=text,
             curiosity_debt=self.DEBT_INCREMENT,
             times_encountered=1,
             related_observations=[observation.id],
             state="NEW",
+            category=question_category,
+            expected_behavior=expected_behavior,
+            observed_behavior=observed_behavior,
         )
         self.repository.add_question(question)
-        self._question_keys[question_key] = question.id
         return question
 
     def _behavior_owner(self, behavior: str) -> str:
