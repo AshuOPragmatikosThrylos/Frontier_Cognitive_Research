@@ -7,18 +7,18 @@
 ## Possible Future Title (options)
 
 1. *Difference Before Questions: A Minimal Ecology for Cognitive Organization*
-2. *We Built Selection, Then Removed It: Twenty-One Deterministic Worlds in Question-Centric Cognition*
-3. *Persistence Without Selection: Toy Experiments in Question-Centric Intelligence*
+2. *We Built Selection and Memory, Then Removed Both: Twenty-Two Deterministic Worlds*
+3. *What Survives When You Remove Everything: Destructive Tests in Question-Centric Cognition*
 
 ---
 
 ## Abstract Ideas (bullet sketch)
 
-- Method: twenty-one deterministic experiments, no LLM/embeddings/randomness.
-- Arc: question ecology → falsification → difference-first → memory → **selection built (017) → cross-domain (020) → selection demolished (021)**.
-- Key finding: **selection assumption-imposed; persistence fundamental.**
-- Layer asymmetry: questions merge (EXP-002); memories resist merge (EXP-018–019).
-- Destructive tests as feature: assumption removal > mechanism stacking.
+- Method: twenty-two deterministic experiments, no LLM/embeddings/randomness.
+- Arc: build ecology → falsify → **destructive removal arc (021–022)**.
+- Key finding: **selection assumption-imposed; persistence optional; difference+tension organize.**
+- Methodology contribution: sequential assumption removal more informative than mechanism stacking.
+- Fresh emergence replaces reconstruction when memory removed.
 
 ---
 
@@ -28,12 +28,11 @@
 2. **Related Work**
 3. **Framework**
 4. **Phase I–IV:** EXP-001–011
-5. **Phase V:** Memory stack EXP-012–016
-6. **Phase VI:** Selection EXP-017–020 (present with EXP-021 qualification)
-7. **Phase VII:** Assumption removal EXP-021
-8. **Discussion:** H175–H177 persistence pivot; H176 reinterprets 017/020
-9. **Limitations and Future Work**
-10. **Conclusion**
+5. **Phase V–VI:** Memory stack EXP-012–020 (with qualifications)
+6. **Phase VII:** Destructive tests EXP-021–022
+7. **Discussion:** What survives when selection and persistence removed
+8. **Limitations:** Floor not reached; questions still depend on tensions
+9. **Conclusion**
 
 ---
 
@@ -41,41 +40,40 @@
 
 | Priority | Experiments | Role |
 |----------|-------------|------|
-| Core | EXP-011, EXP-015, **EXP-021** | Minimal pivot, memory, **assumption removal** |
-| Core | EXP-010, EXP-017, EXP-020 | Falsification, selection (qualified), cross-domain |
-| Core | EXP-018, EXP-019 | Negative results |
-| Supporting | EXP-002, EXP-012, EXP-013 | Merge, emergence, lifecycle |
+| Core | EXP-011, **EXP-021**, **EXP-022** | Minimal pivot + destructive arc |
+| Core | EXP-010, EXP-012, EXP-015 | Falsification, emergence, memory (qualified) |
+| Supporting | EXP-017, EXP-020 | Selection (qualified), cross-domain |
+| Supporting | EXP-018, EXP-019 | Negative results |
 | Appendix | Others | Construction detail |
 
-**EXP-021 World A vs World B** is headline figure: same traces, selection vs no selection.
+**EXP-021 + EXP-022 sequential figure** — what survives each attack.
 
 ---
 
 ## Key Hypotheses to Highlight
 
-- **Supported:** H100, H125, H141–H144 (qualified), **H174–H177**
-- **Not supported:** H171–H173, H150–H153, H156–H159
-- **Partial:** H164 (further qualified by H176)
-- **Pivot:** H175–H177 — persistence over selection
+- **Supported:** H100, H174–H177 (qualified), **H180–H186**
+- **Not supported:** H171–H173, **H178**
+- **Pivot:** Difference+tension as current floor; memory/selection optional
 
 ---
 
 ## Limitations (must include)
 
-- EXP-021 World B still uses sorted tension_id order — not fully assumption-free.
-- EXP-017/020 selection reproduced only with explicit rank/budget.
-- No spontaneous asymmetry observed.
+- EXP-022: questions still depend on tensions and differences.
+- Floor not identified — further attacks planned.
+- Fresh emergence uses structural question ids — recurrence not random respawn.
 
 ---
 
 ## Submission Target (if ever)
 
-Workshop on cognitive architecture or scientific discovery. **Lead with assumption-removal falsification.**
+Workshop on cognitive architecture or scientific discovery. **Lead with destructive methodology and survival analysis.**
 
 ---
 
 ## Future Work (paper closing)
 
-- Persistence under attack (forgetting + assumption stripping).
-- Spontaneous asymmetry search.
-- Formal persistence preconditions.
+- Question, tension, difference removal sequence.
+- Formal floor identification.
+- Fresh emergence under combined attacks.

@@ -12,6 +12,7 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 | **EXP-010** | First rigorous control. Proved semantic organization is mechanism-dependent, not observation-inevitable. Established falsification culture. |
 | **EXP-020** | Cross-domain validation. Selection reproduced in 3/4 unrelated domains under identical rules; Distributed Databases boundary failure exposed theory limits. Recurrence without universality. |
 | **EXP-021** | Assumption removal. Identical traces — World A selection (rank+budget), World B no selection. **Falsified selection as fundamental primitive.** Persistence invariant. One of most important experiments. Destroyed project's strongest competitive motif. |
+| **EXP-022** | Persistence removal. World A persistent traces + reconstruction; World B transient decay + fresh emergence. **Organization survived both.** Falsified persistence as fundamental. Difference+tension elevated. One of most important experiments. |
 
 ---
 
@@ -22,7 +23,7 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 | **EXP-003** | Hierarchy collapse — over-abstraction as ecosystem killer. Defined failure mode the project still responds to. |
 | **EXP-008** | Contradiction pressure as evolution driver — naturalistic speciation without diversity-only thresholds. |
 | **EXP-012** | Constructive proof: questions emerge from tension pipeline without primitive Question objects. |
-| **EXP-015** | Identity survives object deletion via ecosystem traces — deepest memory result to date. |
+| **EXP-015** | Identity survives object deletion via ecosystem traces — **qualified by EXP-022: optimization, not necessity.** |
 | **EXP-017** | Memory competition under budget — **selection now qualified (EXP-021): assumption-imposed, not emergent.** Latent memory exceeds active expression when rank+budget applied. |
 
 ---
@@ -55,7 +56,7 @@ Experiments ranked by **importance to the research arc** — falsifiability, sur
 
 ## Not Ranked Lower Deliberately
 
-All EXP-001–021 contributed. EXP-021 ranks **S++** with EXP-010, EXP-011, EXP-020 — assumption removal falsified selection as primitive.
+All EXP-001–022 contributed. EXP-021 and EXP-022 rank **S++** — sequential destructive tests falsifying selection then persistence; organization survives.
 
 ---
 
@@ -72,8 +73,8 @@ A    → Necessary construction or extension; less surprising alone
 
 ## If Reading One Experiment Per Tier
 
-- **S++:** EXP-011 or **EXP-021** (assumption removal)
-- **S+:** EXP-015 (persistence) or EXP-017 (qualified selection)
+- **S++:** EXP-011, **EXP-021**, or **EXP-022** (destructive arc)
+- **S+:** EXP-012 (emergence) or EXP-015 (qualified persistence)
 - **S:** EXP-018 (negative — read with EXP-017)
 - **S:** EXP-019 (negative — read with EXP-002)
 - **A:** EXP-002

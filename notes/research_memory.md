@@ -2,13 +2,13 @@
 
 **Purpose:** Paste or attach at start of a new session. Compact state of Frontier Cognitive Research / QCI program.
 
-**Last updated:** 2026-06-22 (post EXP-021 — selection falsified; persistence elevated)
+**Last updated:** 2026-06-22 (post EXP-022 — persistence falsified; difference+tension survive)
 
 ---
 
 ## One-Sentence State
 
-Difference-first stack; **persistence is fundamental** (EXP-015–016, EXP-021); **selection was assumption-imposed** (EXP-017/020 reproduced only with rank+budget; EXP-021 World B falsified); cooperation/merging failed (EXP-018–019).
+Difference-first stack; **difference + tension organize without persistence** (EXP-022); selection assumption-imposed (EXP-021); memory/identity optional — fresh emergence replaces reconstruction when traces decay.
 
 ---
 
@@ -16,8 +16,8 @@ Difference-first stack; **persistence is fundamental** (EXP-015–016, EXP-021);
 
 ```
 02_Question_Centric_Intelligence/
-├── experiments/exp001–exp021.py
-├── results/exp001–exp021 documented
+├── experiments/exp001–exp022.py
+├── results/exp001–exp022 documented
 └── src/ (EXP-001–011 only)
 notes/ ← MEMORY LAYER
 ```
@@ -26,27 +26,26 @@ notes/ ← MEMORY LAYER
 
 ## Current Phase
 
-**Phase VIII: Assumption removal — selection demoted, persistence elevated** (EXP-021)
+**Phase IX: Persistence removal — organization survives without memory** (EXP-022)
 
 | EXP | Result |
 |-----|--------|
-| 017–020 | Selection (now **qualified** — assumption-imposed) |
-| 018–019 | Cooperation, merging — negative |
-| **021** | **Assumption removal** — selection vanishes; persistence survives |
+| 021 | Selection falsified |
+| **022** | **Persistence falsified** — org survives; fresh emergence |
 
 ---
 
 ## Current Direction
 
-1. **Do not treat selection as fundamental** — rank/budget/strength ordering required (H176).
-2. **Investigate persistence** — traces stable across assumption change (H177).
-3. Next: natural disappearance, assumption-free asymmetries, persistence under attack.
+1. **Do not treat persistence as fundamental** (H178 falsified).
+2. **Difference + tension** are deeper primitives (H186).
+3. Next: attack questions → tensions → differences; find floor.
 
 ---
 
 ## Narrative (30 seconds)
 
-Memory traces persist (015). Competition/select under budget (017) **cross-domain (020)** — then **EXP-021 removed assumptions: selection gone, traces remain**. Selection was exported mechanism, not emergent law.
+Built memory (015), selection (017), cross-domain (020). **EXP-021:** selection gone, persistence remains. **EXP-022:** persistence gone, **organization remains** — questions via fresh emergence, not reconstruction.
 
 ---
 
@@ -54,12 +53,12 @@ Memory traces persist (015). Competition/select under budget (017) **cross-domai
 
 | Tier | Experiments |
 |------|-------------|
-| **S++** | EXP-010, EXP-011, EXP-020, **EXP-021** |
-| **S+** | EXP-003, 008, 012, 015, 017 (selection now qualified) |
+| **S++** | EXP-010, 011, 020, 021, **022** |
+| **S+** | EXP-003, 008, 012, 015, 017 |
 | **S** | EXP-004, 009, 013, 014, 018, 019 |
 | **A** | EXP-001, 002, 005–007, 016 |
 
-**EXP-021 = one of most important experiments** — destroyed selection motif.
+**EXP-022 = one of most important experiments** — persistence attacked, org survived.
 
 ---
 
@@ -67,31 +66,33 @@ Memory traces persist (015). Competition/select under budget (017) **cross-domai
 
 | | % |
 |--|---|
-| Interesting Framework | 88 |
-| Useful Framework | 62 |
-| Preprint-worthy Narrative | 52 |
-| New Cognitive Principles | 48 |
-| **Selection as Fundamental** | **22** ↓↓ |
-| **Persistence as Fundamental** | **68** ↑↑ |
-| Cross-domain Potential | 50 |
-| Fundamental Breakthrough | 11 |
-| **Dead-end Risk** | **18** |
+| Interesting Framework | 91 |
+| Useful Framework | 65 |
+| Preprint-worthy Narrative | 55 |
+| New Cognitive Principles | 50 |
+| Selection as Fundamental | 22 |
+| **Persistence as Fundamental** | **38** ↓↓ |
+| **Fresh Emergence as Organizing** | **62** ↑↑ |
+| Cross-domain Potential | 48 |
+| Fundamental Breakthrough | 13 |
+| **Dead-end Risk** | **15** ↓ |
 
 ---
 
-## Key Hypotheses (H171–H177)
+## Key Hypotheses (H178–H186)
 
 | ID | Claim | Status |
 |----|-------|--------|
-| H171 | Selection without explicit ranking | **Not supported** |
-| H172 | Selection emerges from interaction | **Not supported** |
-| H173 | Selection survives assumption removal | **Not supported** |
-| H174 | Removing mechanisms reveals deeper ones | Supported |
-| H175 | Selection is not fundamental | Supported |
-| H176 | Prior selection was externally imposed | Supported |
-| H177 | Persistence > selection | Supported |
+| H178 | Persistence is fundamental | **Not supported** |
+| H180 | Something beneath persistence exists | Supported |
+| H181 | Transient traces can still organize | Supported |
+| H182 | Reconstruction unnecessary | Supported |
+| H183 | Emergence dominates memory | Supported |
+| H184 | Memory is optimization not necessity | Supported |
+| H185 | Identity continuity secondary | Supported |
+| H186 | Difference+tension > persistence | Supported |
 
-Full H1–H177: `notes/major_hypotheses.md`
+Full H1–H186: `notes/major_hypotheses.md`
 
 ---
 
@@ -99,30 +100,29 @@ Full H1–H177: `notes/major_hypotheses.md`
 
 | | World A | World B |
 |--|---------|---------|
-| Assumptions | rank+budget+strength | none |
-| Live questions | 1 | 3 |
-| Selection | **Yes** | **No** |
-| Traces | 3 stable | 3 stable |
+| Traces | 3 persistent | 0 (decayed) |
+| Questions | 3 reconstructed | 3 fresh emergent |
+| Organization | Yes | **Yes** |
 
-| | Before EXP-021 | After EXP-021 |
-|--|----------------|---------------|
-| Selection | Strong motif | Assumption-imposed |
-| Persistence | Supporting | **Fundamental** |
+| | EXP-021 attack | EXP-022 attack |
+|--|----------------|----------------|
+| Target | Selection | Persistence |
+| Survivor | Persistence | **Difference + tension** |
 
 ---
 
 ## Open Questions (top 3)
 
-1. Can any asymmetry emerge without rank/budget?
-2. Does persistence survive forgetting / further assumption stripping?
-3. What replaces selection in the memory-layer story?
+1. Does organization survive tension removal?
+2. Does organization survive difference removal?
+3. What is the minimal surviving motif?
 
 ---
 
 ## Git
 
-- Latest impl: QCI-032 (EXP-021)
-- Results docs: pending user commit request
+- Latest impl: QCI-033 (EXP-022)
+- Results docs: pending user commit
 
 ---
 
@@ -135,12 +135,12 @@ Full H1–H177: `notes/major_hypotheses.md`
 
 ## Active Tensions
 
-1. **Selection demoted** — EXP-021 falsified as primitive; EXP-017/020 results stand but reinterpreted.
-2. **Persistence elevated** — archival identity survives assumption removal.
-3. **Strongest motif destroyed** — programmatic health via self-falsification.
+1. **Persistence demoted** — optional optimization, not primitive.
+2. **Fresh emergence elevated** — questions recurrent, not preserved.
+3. **Destructive arc** — 021 selection, 022 persistence; floor unknown.
 
 ---
 
 ## Kill Criteria
 
-Selection-as-fundamental **falsified**. Persistence remains. See `notes/kill_criteria.md`.
+Persistence-as-fundamental **falsified**. Difference+tension remain. See `notes/kill_criteria.md`.

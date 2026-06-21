@@ -1,6 +1,6 @@
 # Timeline of Discoveries
 
-EXP-001 through EXP-021. Concise record for memory recovery.
+EXP-001 through EXP-022. Concise record for memory recovery.
 
 ---
 
@@ -214,6 +214,16 @@ EXP-001 through EXP-021. Concise record for memory recovery.
 
 ---
 
+## EXP-022 — Persistence Removal
+
+**Theme:** Attack persistence — transient vs persistent memory  
+**Main result:** World B: 0 traces, 3 fresh emergences; **organization survived** (6 groups, 3 tensions, 3 live questions)  
+**Surprise:** Persistence unnecessary; identity optional; questions recurrent not preserved  
+**New hypotheses:** H178 not supported; H180–H186 supported  
+**Importance:** **S++** — one of most important experiments; persistence falsified
+
+---
+
 ## Chronological Arc (one line)
 
-Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → resurrection → trace memory → forgetting → competition → failed cooperation → failed merging → cross-domain partial success → **assumption removal / selection demoted**.
+Merge → hierarchy failure → communities → scarcity → evolution → falsification → minimal reduction → difference-first rebuild → lifecycle → resurrection → trace memory → forgetting → competition → failed cooperation → failed merging → cross-domain partial success → assumption removal / selection demoted → **persistence removal / difference+tension elevated**.

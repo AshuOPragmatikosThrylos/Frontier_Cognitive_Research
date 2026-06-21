@@ -1,4 +1,4 @@
-# Major Hypotheses (H1–H177)
+# Major Hypotheses (H1–H186)
 
 Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rejected**
 
@@ -310,20 +310,35 @@ Status key: **Supported** | **Strengthened** | **Weak** | **Unresolved** | **Rej
 | H174 | Removing mechanisms reveals deeper mechanisms | Supported | EXP-021 |
 | H175 | Selection is not fundamental | Supported | EXP-021 |
 | H176 | Selection in previous experiments was externally imposed | Supported | EXP-021 |
-| H177 | Persistence is more fundamental than selection | Supported | EXP-021 |
+| H177 | Persistence is more fundamental than selection | Supported | EXP-021 (qualified by EXP-022 — persistence also not fundamental) |
 
 ---
 
-## Summary Counts (H1–H177)
+## EXP-022 — Persistence Removal (persistence falsified)
+
+| ID | Statement | Status | Experiment |
+|----|-----------|--------|------------|
+| H178 | Persistence is fundamental | **Not supported** | EXP-022 |
+| H180 | Something beneath persistence exists | Supported | EXP-022 |
+| H181 | Transient traces can still organize | Supported | EXP-022 |
+| H182 | Reconstruction is unnecessary | Supported | EXP-022 |
+| H183 | Emergence dominates memory | Supported | EXP-022 |
+| H184 | Memory is an optimization rather than a necessity | Supported | EXP-022 |
+| H185 | Identity continuity is secondary | Supported | EXP-022 |
+| H186 | Difference and tension are more fundamental than persistence | Supported | EXP-022 |
+
+---
+
+## Summary Counts (H1–H186)
 
 | Status | Count (approx.) |
 |--------|-----------------|
-| Supported | ~119 |
+| Supported | ~126 |
 | Strengthened | ~17 |
 | Partial | 1 (H164) |
 | Weak | ~12 |
 | Unresolved | ~10 |
-| Not supported | 11 (H150–H153, H156–H159, **H171–H173**) |
+| Not supported | 12 (H150–H153, H156–H159, H171–H173, **H178**) |
 | Rejected | 0 explicit |
 
-*EXP-021: selection falsified as fundamental; persistence elevated. H164–H170 selection preconditions claims qualified by H176.*
+*EXP-022: persistence falsified; difference+tension elevated. H177 qualified — persistence > selection but neither fundamental.*
